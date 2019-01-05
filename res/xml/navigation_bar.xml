@@ -66,6 +66,13 @@
             android:summary="@string/one_hand_mode_summary"
             android:defaultValue="false" />
 
+        <org.aospextended.extensions.preference.SystemSettingSwitchPreference
+            android:key="pixel_nav_animation"
+            android:title="@string/pixel_navbar_anim_title"
+            android:summary="@string/pixel_navbar_anim_summary"
+            android:dependency="navbar_visibility"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
     
     <PreferenceCategory

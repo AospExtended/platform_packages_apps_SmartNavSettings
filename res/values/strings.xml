@@ -217,4 +217,8 @@
     <string name="smartbar_double_tap_sleep_summary">Double-tap on empty navbar areas to sleep</string>
     <string name="reset">Reset</string>
 
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animation</string>
+    <string name="pixel_navbar_anim_summary">Toggle home button animation on stock navbar</string>
+
 </resources>
