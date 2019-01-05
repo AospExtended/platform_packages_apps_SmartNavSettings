@@ -21,6 +21,7 @@ import java.io.FileFilter;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
+import java.util.List;
 
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
 import org.aospextended.extensions.preference.CustomSeekBarPreference;
@@ -34,6 +35,8 @@ import com.android.settings.R;
 import com.android.settings.smartnav.ActionPreference;
 import com.android.settings.smartnav.IconPickHelper;
 import com.android.settings.smartnav.IconPickHelper.OnPickListener;
+import com.android.settings.search.BaseSearchIndexProvider;
+import com.android.settings.search.Indexable;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -51,6 +54,7 @@ import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
 import android.provider.Settings;
+import android.provider.SearchIndexableResource;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -65,7 +69,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class FlingSettings extends ActionFragment implements
-        Preference.OnPreferenceChangeListener, IconPickHelper.OnPickListener {
+        Preference.OnPreferenceChangeListener, IconPickHelper.OnPickListener, Indexable {
     private static final String TAG = FlingSettings.class.getSimpleName();
     public static final String FLING_LOGO_URI = "fling_custom_icon_config";
 
@@ -715,4 +719,22 @@ public class FlingSettings extends ActionFragment implements
     public int getMetricsCategory() {
         return MetricsProto.MetricsEvent.EXTENSIONS;
     }
+
+    public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
+            new BaseSearchIndexProvider() {
+                 @Override
+                public List<SearchIndexableResource> getXmlResourcesToIndex(Context context,
+                        boolean enabled) {
+                    final ArrayList<SearchIndexableResource> result = new ArrayList<>();
+                     final SearchIndexableResource sir = new SearchIndexableResource(context);
+                    sir.xmlResId = R.xml.fling_settings;
+                    result.add(sir);
+                    return result;
+                }
+                 @Override
+                public List<String> getNonIndexableKeys(Context context) {
+                    final List<String> keys = super.getNonIndexableKeys(context);
+                    return keys;
+                }
+    };
 }
