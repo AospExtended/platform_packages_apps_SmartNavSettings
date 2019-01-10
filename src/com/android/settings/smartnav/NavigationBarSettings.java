@@ -198,6 +198,9 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
             boolean showing = ((Boolean)newValue);
             Settings.Secure.putInt(getContentResolver(), Settings.Secure.NAVIGATION_BAR_VISIBLE,
                     showing ? 1 : 0);
+            if (showing) {
+            Settings.System.putInt(getContentResolver(), Settings.System.OMNI_USE_BOTTOM_GESTURE_NAVIGATION, 0);
+            }
             updateBarVisibleAndUpdatePrefs(showing);
             return true;
         } else if (preference == mBarHeightPort) {
