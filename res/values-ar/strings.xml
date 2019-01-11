@@ -37,6 +37,7 @@
     <string name="default_string">الإفتراضي</string>
     <string name="default_settings">الإعدادات الإفتراضية</string>
     <string name="default_settings_summary">شريط تنقل AOSP الإفتراضي</string>
+    <string name="swipeup_settings_summary">التمرير لأعلى للتبديل بين التطبيقات</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">إختيار إجراء</string>
     <string name="action_entry_default_action">الإعدادات الإفتراضية</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">لون تلقائي للنبض</string>
     <string name="pulse_auto_color_summary">مزامنة اللون مع غلاف الألبوم. تجاوز مصباح لافا وشفافية الخطوط.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">القائمة السوداء للتطبيقات</string>
+    <string name="pulse_blacklist_summary">التطبيقات التي سيتم تخطيها مع النبض</string>
+    <string name="pulse_blacklist_apps_cat_title">القائمة السوداء</string>
+    <string name="pulse_blacklist_apps_title">القائمة السوداء للتطبيقات</string>
+    <string name="pulse_blacklist_apps_summary">التطبيقات التي لا تظهر في اللوحة</string>
+    <string name="pulse_blacklist_add_apps_title">إضافة تطبيق</string>
+    <string name="pulse_blacklist_add_apps_summary">اضغط هنا للأضافة، اضغط على التطبيق المضاف لإزالته</string>
     <string name="pulse_custom_dimen">عرض الشريط</string>
     <string name="pulse_custom_div">مساحات الشريط</string>
     <string name="pulse_filled_block_size">حجم الكتلة</string>

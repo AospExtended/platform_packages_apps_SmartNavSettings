@@ -37,6 +37,7 @@
     <string name="default_string">Bawaan</string>
     <string name="default_settings">Setelan bawaan</string>
     <string name="default_settings_summary">Bilah navigasi bawaan AOSP</string>
+    <string name="swipeup_settings_summary">Usap ke atas untuk beralih aplikasi</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Pilih tindakan</string>
     <string name="action_entry_default_action">Pengaturan bawaan</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Warna otomatis visual audio</string>
     <string name="pulse_auto_color_summary">Sinkronisasi warna dengan album seni. Menimpa Lampu Lava dan keburaman garis.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Aplikasi yang di cekal</string>
+    <string name="pulse_blacklist_summary">Aplikasi yang dilewatkan untuk Visual Audio</string>
+    <string name="pulse_blacklist_apps_cat_title">Daftar cekal</string>
+    <string name="pulse_blacklist_apps_title">Aplikasi yang di cekal</string>
+    <string name="pulse_blacklist_apps_summary">Aplikasi untuk tidak ditampilkan pada panel</string>
+    <string name="pulse_blacklist_add_apps_title">Tambah aplikasi</string>
+    <string name="pulse_blacklist_add_apps_summary">Tekan di sini untuk menambahkan, tekan pada aplikasi yang ditambahkan untuk menghapusnya</string>
     <string name="pulse_custom_dimen">Bar lebar</string>
     <string name="pulse_custom_div">Jarak Bar</string>
     <string name="pulse_filled_block_size">Ukuran Blok</string>

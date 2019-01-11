@@ -16,16 +16,94 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
+    <string name="bottom_nav_navigation_title">ناوبری</string>
+    <string name="navbar_interface_title">رابط</string>
+    <string name="navbar_size">اندازه نوار</string>
+    <string name="navbar_mode">حالت مکان یابی</string>
+    <string name="navbar_mode_summary">انتخاب حالت ناوبری برای دستگاه</string>
+    <string name="navbar_visibility">فعال کردن نوار ناوبری</string>
+    <string name="navigationbar_settings_summary">شخصی‌سازی سبک و رفتار ناوبری</string>
+    <string name="navbar_general_title">پیشرفته</string>
+    <string name="navigation_bar_left_title">حالت چپ‌دست</string>
+    <string name="navigation_bar_left_summary">قراردادن نوار پیمایش در سمت چپ صفحه در حالت افقی</string>
+    <string name="smartbar_interface">نوار هوشمند</string>
+    <string name="icon_pack_picker_dialog_title">آیکون پک</string>
+    <string name="image_exceeds_max_allowed_size">اندازه‌ی تصویر نباید بیش از ۵۱۲ در ۵۱۲ باشد</string>
+    <string name="invalid_icon_from_uri">ناتوان در بارگذاری تصویر از ارائه دهنده محتوا</string>
+    <string name="picker_activities">فعالیت ها</string>
+    <string name="select_custom_app_title">برنامه سفارشی را انتخاب کنید</string>
+    <string name="select_custom_activity_title">فعالیت سفارشی را انتخاب کنید</string>
+    <string name="profile_applist_title">برنامه های کاربردی</string>
+    <string name="default_string">موجودی</string>
+    <string name="default_settings">تنظیمات اولیه</string>
+    <string name="default_settings_summary">نوار ناوبری اندروید خام</string>
+    <string name="swipeup_settings_summary">برای سوئیچ کردن بین برنامه‌ها به بالا سوایپ کنید</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
+    <string name="choose_action_title">\"انتخاب عملکرد\"</string>
+    <string name="action_entry_default_action">تنظیمات پیش‌فرض</string>
+    <string name="action_entry_select_app">برنامه را انتخاب کنید</string>
+    <string name="action_entry_custom_action">فعالیت سفارشی را انتخاب کنید</string>
     <!-- Fling -->
+    <string name="fling_settings">تنظیمات Fling</string>
     <string name="fling_settings_summary">نوار وضعیت منحصر به فرد و کاملا قابل شخصی‌سازی بر پایه ژست‌های حرکتی</string>
     <string name="fling_interface">پرتاب</string>
     <string name="fling_enable_title">روشن کردن پرتاب</string>
+    <string name="fling_back_home_policy">پشت و خانه همیشه باید تنظیم شود. برای تغییر موارد پشت یا خانه، ابتدا مورد نظر را تنظیم نمایید.\n\n فعال سازی عملکرد های دو ضریه ای یک وقفه ی بسیار کوتاه برای عملکرد های یک ضربه ای ایجاد خواهد نمود.</string>
+    <string name="fling_split_bar_policy">تنظیم اعمال فقط سمت راست/چپ لمس مناطق را میان کل نوار تقسیم خواهد کرد.</string>
     <string name="fling_def_summary">عملکردی انتخاب نشده است</string>
     <string name="fling_swipe_actions">ژست‌های کشیدنی</string>
     <string name="fling_tap_actions">ژست‌های ضربه زدن</string>
+    <string name="fling_short_swipe_right">کشیدن به راست-کوتاه</string>
+    <string name="fling_short_swipe_left">کشیدن به چپ-کوتاه</string>
+    <string name="fling_long_swipe_right">کشیدن به راست-طولانی</string>
+    <string name="fling_long_swipe_left">کشیدن به چپ-طولانی</string>
+    <string name="fling_right_up_swipe">سوئیپ بالا راست</string>
+    <string name="fling_left_up_swipe">سوئیپ بالا چپ</string>
+    <string name="fling_single_tap">یک‌بار ضربه به سمت راست</string>
+    <string name="fling_double_tap">دوبار ضربه به سمت راست</string>
+    <string name="fling_long_press">ضربه طولانی به راست</string>
+    <string name="fling_single_left_tap">یک‌بار ضربه به سمت چپ</string>
+    <string name="fling_double_left_tap">دوبار ضربه به سمت چپ</string>
+    <string name="fling_long_left_press">ضربه طولانی به سمت چپ</string>
+    <string name="long_swipe_portrait_title">عمودی</string>
+    <string name="long_swipe_landscape_title">افقی</string>
+    <string name="portrait_right_swipe_title">کشیدن عمودی از راست</string>
+    <string name="portrait_left_swipe_title">کشیدن عمودی از چپ</string>
+    <string name="landscape_right_swipe_title">کشیدن افقی از راست</string>
+    <string name="landscape_left_swipe_title">کشیدن افقی از چپ</string>
+    <string name="vertical_up_swipe_title">کشیدن عمودی رو به بالا</string>
+    <string name="vertical_down_swipe_title">کشیدن عمودی به پایین</string>
+    <string name="up_swipe_title">کشیدن به بالا</string>
+    <string name="down_swipe_title">کشیدن به پایین</string>
     <!-- Pulse navigation bar music visualizer -->
+    <string name="pulse_legacy_mode_advanced_category">تنظیمات حالت محو شدن بلوک</string>
+    <string name="pulse_custom_fudge_factor">سطح سلامت</string>
+    <string name="lavamp_solid_speed_title">سرعت لامپ گدازه</string>
+    <string name="pulse_solid_units_count">تعداد خطوط توپر</string>
+    <string name="pulse_solid_lines_count">تعداد خطوط توپر</string>
+    <string name="pulse_solid_units_opacity">شفافیت خطوط توپر</string>
+    <string name="pulse_solid_dimen_category">تنطیمات مد خطوط توپر</string>
+    <string name="pulse_custom_buttons_opacity_title">شفافیت نوار هوشمند در پالس</string>
+    <string name="pulse_auto_color_title">رنگ خودکار پالس</string>
+    <string name="pulse_auto_color_summary">هماهنگ‌سازی رنگ با عکس آلبوم. تاری رقص نور و خطوط را تغییر می دهد.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">بلک لیست برنامه‌ها</string>
+    <string name="pulse_blacklist_summary">برنانه هایی برای رد(skip) شدن در پالس</string>
+    <string name="pulse_blacklist_apps_cat_title">لیست سیاه</string>
+    <string name="pulse_blacklist_apps_title">لیست سیاه برنامه ها</string>
+    <string name="pulse_blacklist_apps_summary">برنامه‌هایی که نباید در پنل نمایش داده شوند</string>
+    <string name="pulse_blacklist_add_apps_title">افزودن برنامه</string>
+    <string name="pulse_blacklist_add_apps_summary">اینجا کلیک کنید تا اضافه شود و روی برنامه‌های اضافه شده کلیک کنید تا حذف شوند</string>
+    <string name="pulse_custom_dimen">عرض نوار</string>
+    <string name="pulse_custom_div">فاصله نوار</string>
+    <string name="pulse_filled_block_size">اندازه قطعه</string>
+    <string name="pulse_empty_block_size">فاصله قطعه</string>
     <!-- Navbar height -->
+    <string name="navigation_bar_size_title">اندازه نوار</string>
+    <string name="portrait_title">ارتفاع عمودی</string>
+    <string name="land_vert_title">عرض افقی</string>
+    <string name="land_hor_title">ارتفاع افقی</string>
+    <string name="positive_done">انجام شد</string>
     <!-- SmartBar -->
+    <string name="smartbar_category">نوار هوشمند</string>
 </resources>

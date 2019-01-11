@@ -37,6 +37,7 @@
     <string name="default_string">Numatytoji</string>
     <string name="default_settings">Numatytieji nustatymai</string>
     <string name="default_settings_summary">AOSP numatytoji naršymo juosta</string>
+    <string name="swipeup_settings_summary">Braukite aukštyn, kad pereitumėte prie programų</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Pasirinkti veiksmą</string>
     <string name="action_entry_default_action">Numatytieji nustatymai</string>
@@ -106,6 +107,11 @@
     <string name="fling_restore_config_title">Atkurti vartotojo profilį</string>
     <string name="fling_config_name_edit_dialog_title">Fling profilio vardas</string>
     <string name="fling_config_name_edit_dialog_message">Įveskite pavadinimą arba palikite tuščią</string>
+    <string name="fling_config_dialog_title">Profiliai Fling</string>
+    <string name="fling_config_backup_success_toast">Fling vartotojo profilis sėkmingai Išsaugotas</string>
+    <string name="fling_config_restore_success_toast">Fling profilis sėkmingai atkurtas</string>
+    <string name="fling_config_backup_error_toast">Klaida įrašant Fling profilį</string>
+    <string name="fling_config_restore_error_toast">Klaida atkuriant Fling profilį</string>
     <!-- Pulse navigation bar music visualizer -->
     <string name="pulse_help_policy_notice_summary">Klausantis įrenginio garsiakalbio, impulsas neveikia su kai kuriais garso šaltiniais</string>
     <string name="pulse_settings">Pulsas</string>
@@ -131,6 +137,13 @@
     <string name="pulse_auto_color_title">Automatinė Pulso spalva</string>
     <string name="pulse_auto_color_summary">Spalva priklauso nuo albumo viršelio. Pakeičia \"Lava\" lempos ir storų linijų skaidrumą.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Programėlių juodasis sąrašas</string>
+    <string name="pulse_blacklist_summary">Programėlės, kurios ignoruos Pulse</string>
+    <string name="pulse_blacklist_apps_cat_title">Juodasis sąrašas</string>
+    <string name="pulse_blacklist_apps_title">Programėlių juodasis sąrašas</string>
+    <string name="pulse_blacklist_apps_summary">Programos nerodomos skydelyje</string>
+    <string name="pulse_blacklist_add_apps_title">Įtraukti programėlę</string>
+    <string name="pulse_blacklist_add_apps_summary">Palieskite čia norėdami pridėti, palieskite pridėtą programą, kad ją pašalintumėte</string>
     <string name="pulse_custom_dimen">Juostos plotis</string>
     <string name="pulse_custom_div">Atstumas tarp linijų</string>
     <string name="pulse_filled_block_size">Bloko dydis</string>
@@ -142,13 +155,18 @@
     <string name="land_hor_title">Kraštovaizdžio aukštis</string>
     <string name="positive_done">Atlikta</string>
     <!-- SmartBar -->
+    <string name="smartbar_category">Išmanioji juosta</string>
+    <string name="smartbar_settings_title">Išmaniosios juostos nustatymai</string>
     <string name="smartbar_settings_summary">Pilnai pritaikyta naršymo juostą</string>
     <string name="smartbar_editor_title">Pradėti redagavimo režimą</string>
+    <string name="smartbar_editor_summary">Atidarykite išmaniosios juostos mygtukų redaktorių</string>
     <string name="smartbar_help_policy_notice_summary">Ilgai paspaudus bet kurį mygtuką atsiras redagavimo meniu. Trumpas bet kurio mygtuko paspaudimas inicijuoja galimybę rūšiuoti vilkimo ir ištrynimo mygtuką. \ N \ nJei įjungus dukart palieskite veiksmus, nedidelis delsimas atsiliepti vienkartiniu ryšiu.</string>
     <string name="smartbar_context_menu_position_title">Kontekstinių mygtukų išdėstymo pozicija</string>
     <string name="smartbar_context_menu_position_summary">Nustatykite konteksto mygtukų, pvz., (meniu, vietą ir pasirinkite įvesties būdą.)</string>
     <string name="smartbar_right">Dešinė</string>
     <string name="smartbar_left">Kairė</string>
+    <string name="smartbar_button_animation_title">Mygtuko liesti animacija</string>
+    <string name="smartbar_button_animation_summary">Nustatyti pagrindinių mygtukų animacijos stilių, kai spustelėsite</string>
     <string name="smartbar_button_animation_ripple">Pulsacijos</string>
     <string name="smartbar_button_animation_spring">Spyruoklė</string>
     <string name="smartbar_button_animation_flip">Apversti</string>
@@ -156,12 +174,20 @@
     <string name="smartbar_button_animation_pixel_home">Pikselių (tik pagrindinį mygtuką)</string>
     <string name="smartbar_button_animation_pixel_home_ripple">Pulsavimas ir pikseliai (mygtukas \"Home\")</string>
     <string name="smartbar_factory_reset_title">Iš naujo nustatyti numatytuosius nustatymus</string>
+    <string name="smartbar_factory_reset_confirm">Ar esate tikri, kad norite iš naujo nustatyti išmaniosios juostos numatytuosius nustatymus?</string>
+    <string name="smartbar_ime_action_title">Įvesties būdas ir žiniasklaidos veiksmai</string>
+    <string name="smartbar_ime_action_summary">Pasirinkite, kuriuos mygtukus rodyti naudodami ekraninę klaviatūrą ir grojant muziką</string>
     <string name="smartbar_ime_action_none">Nėra</string>
     <string name="smartbar_ime_action_arrows">Įvesties rodyklės</string>
     <string name="smartbar_ime_action_switcher">Klaviatūros perjungiklis</string>
     <string name="smartbar_ime_action_dynamic">Įvestis/žiniasklaidos rodyklės</string>
     <string name="smartbar_backup_current_config_title">Išsaugoti vartotojo profilį</string>
     <string name="smartbar_restore_config_title">Atkurti vartotojo profilį</string>
+    <string name="smartbar_config_name_edit_dialog_title">Išmaniosios juostos profilio pavadinimas</string>
+    <string name="smartbar_config_name_edit_dialog_message">Įveskite pavadinimą arba palikite tuščią</string>
+    <string name="smartbar_config_dialog_title">Išmaniosios juostos profiliai</string>
+    <string name="smartbar_config_backup_success_toast">Išmaniosios juostos profilis sėkmingai Išsaugotas</string>
+    <string name="smartbar_config_restore_success_toast">Išmaniosios juostos profilis, sėkmingai atkurtas</string>
     <string name="smartbar_config_backup_error_toast">Klaida įrašant Smartbar profilį</string>
     <string name="smartbar_config_restore_error_toast">Klaida atkuriant Smartbar profilį</string>
     <string name="navbar_buttons_alpha_title">Mygtuko skaidrumas</string>

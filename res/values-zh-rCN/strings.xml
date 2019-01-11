@@ -37,6 +37,7 @@
     <string name="default_string">原生</string>
     <string name="default_settings">原生导航栏设置</string>
     <string name="default_settings_summary">AOSP 导航栏</string>
+    <string name="swipeup_settings_summary">向上滑动以切换应用</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">选择操作</string>
     <string name="action_entry_default_action">默认设置</string>
@@ -45,7 +46,7 @@
     <!-- Fling -->
     <string name="fling_settings">Fling 设置</string>
     <string name="fling_settings_summary">一种独特且完全定制的基于手势的导航栏</string>
-    <string name="fling_interface">快滑</string>
+    <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">启用快滑</string>
     <string name="fling_back_home_policy">返回和主界面按键须设置。改变返回或者主界面按键任务，请先设置理想任务。\n\n激活双击功能将会导致轻微的单击响应延迟。</string>
     <string name="fling_split_bar_policy">仅仅设置功能到左或右将会分离触摸屏到整个栏。</string>
@@ -75,7 +76,7 @@
     <string name="up_swipe_title">上滑</string>
     <string name="down_swipe_title">下滑</string>
     <string name="long_swipe_reset">重置</string>
-    <string name="fling_advanced">高级选项</string>
+    <string name="fling_advanced">高级重启</string>
     <string name="fling_long_swipe_title">长划阈值</string>
     <string name="fling_long_swipe_summary">阈值调整是基于Fling接口区域的宽或高百分比</string>
     <string name="fling_trails_enable_title">启用手势轨迹</string>
@@ -124,7 +125,7 @@
     <string name="fling_pulse_color_summary">也用作自动颜色的后备</string>
     <string name="eos_fling_lavalamp_title">开启霓虹灯</string>
     <string name="eos_fling_lavalamp_summary">平滑的颜色混合霓虹灯风格可视化样式</string>
-    <string name="pulse_advanced_category">高级选项</string>
+    <string name="pulse_advanced_category">重启到</string>
     <string name="pulse_legacy_mode_advanced_category">虚线模式设置</string>
     <string name="pulse_custom_fudge_factor">理智水平</string>
     <string name="lavamp_solid_speed_title">霓虹灯速度</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Pulse 自动调整颜色</string>
     <string name="pulse_auto_color_summary">与专辑封面颜色同步。将会覆盖霓虹灯和线的不透明度。</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">应用程序黑名单</string>
+    <string name="pulse_blacklist_summary">要跳过 Pulse 的应用程序</string>
+    <string name="pulse_blacklist_apps_cat_title">黑名单</string>
+    <string name="pulse_blacklist_apps_title">应用程序黑名单</string>
+    <string name="pulse_blacklist_apps_summary">黑名单中的应用程序将不会显示在最近任务中</string>
+    <string name="pulse_blacklist_add_apps_title">添加应用程序</string>
+    <string name="pulse_blacklist_add_apps_summary">点击此处添加应用, 点击已添加的应用程序来删除</string>
     <string name="pulse_custom_dimen">栏宽度</string>
     <string name="pulse_custom_div">栏区间距</string>
     <string name="pulse_filled_block_size">区块尺寸</string>
@@ -154,7 +162,7 @@
     <string name="smartbar_editor_summary">打开 smartbar 按键编辑器</string>
     <string name="smartbar_help_policy_notice_summary">长按任意按钮会弹出编辑菜单。短按任意按钮会初始化拖拽按钮排序选项。\n\n激活双击操作会导致轻微的单击响应延迟。</string>
     <string name="smartbar_context_menu_position_title">上下文按钮位置</string>
-    <string name="smartbar_context_menu_position_summary">设置上下文按钮位置（菜单，输入法选择，等。）</string>
+    <string name="smartbar_context_menu_position_summary">设置上下文按钮位置（菜单、输入法选择、等等）</string>
     <string name="smartbar_right">右侧</string>
     <string name="smartbar_left">左侧</string>
     <string name="smartbar_button_animation_title">按键触摸动画</string>

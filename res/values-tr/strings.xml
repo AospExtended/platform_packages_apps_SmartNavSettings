@@ -37,6 +37,7 @@
     <string name="default_string">Varsayılan</string>
     <string name="default_settings">Varsayılan ayarlar</string>
     <string name="default_settings_summary">Varsayılan gezinme çubuğu</string>
+    <string name="swipeup_settings_summary">Uygulamaları değiştirmek için yukarı kaydırın</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Eylem seç</string>
     <string name="action_entry_default_action">Varsayılan ayarlar</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Otomatik pulse rengi</string>
     <string name="pulse_auto_color_summary">Renkleri albüm sanatları ile senkronize edin. Lava lambası ve çizgi opaklığını geçersiz kılar.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Uygulama kara listesi</string>
+    <string name="pulse_blacklist_summary">Pulse için atlanacak uygulamalar</string>
+    <string name="pulse_blacklist_apps_cat_title">Kara liste</string>
+    <string name="pulse_blacklist_apps_title">Uygulama kara listesi</string>
+    <string name="pulse_blacklist_apps_summary">Panelde gösterilmemesi gereken uygulamalar</string>
+    <string name="pulse_blacklist_add_apps_title">Uygulama ekle</string>
+    <string name="pulse_blacklist_add_apps_summary">Eklemek için buraya dokunun, kaldırmak için eklenen uygulamaya dokun</string>
     <string name="pulse_custom_dimen">Çubuk genişliği</string>
     <string name="pulse_custom_div">Çubuk aralığı</string>
     <string name="pulse_filled_block_size">Blok boyutu</string>
@@ -154,7 +162,7 @@
     <string name="smartbar_editor_summary">Akıllı çubuk tuş düzenleyicisini aç</string>
     <string name="smartbar_help_policy_notice_summary">Herhangi bir tuşa basıldığında düzenleme menüsü açılır. Herhangi bir tuşda kısa bir bekletme, bir sürükle ve bırak tuşu sıralama seçeneğini başlatır.\n\nÇift dokunma hareketlerini için iki kez hafifçe dokunun, tek dokunuşla yanıtlamada hafif bir gecikme oluşturur.</string>
     <string name="smartbar_context_menu_position_title">İçerik tuşlarının konumu</string>
-    <string name="smartbar_context_menu_position_summary">Bağlamsal tuşların konumunu ayarlayın (menü, klavye seçici vb.)</string>
+    <string name="smartbar_context_menu_position_summary">Bağlamsal tuşların konumunu ayarla (menü, klavye seçici vb.)</string>
     <string name="smartbar_right">Sağ</string>
     <string name="smartbar_left">Sol</string>
     <string name="smartbar_button_animation_title">Tuşa dokunma animasyonu</string>
@@ -184,7 +192,7 @@
     <string name="smartbar_config_restore_error_toast">Akıllı çubuk profili geri yüklenirken hata oluştu</string>
     <string name="navbar_buttons_alpha_title">Tuş şeffaflığı</string>
     <string name="smartbar_longpress_delay_title">Tuşa uzun dokunma gecikmesi</string>
-    <string name="smartbar_longpress_delay_summary">Uzun dokunma eylemi ieşiği ayarlayın</string>
+    <string name="smartbar_longpress_delay_summary">Uzun dokunma eylemi eşiği ayarlayın</string>
     <string name="smartbar_longpress_delay_default">Varsayılan gecikme (hızlı)</string>
     <string name="smartbar_longpress_delay_normal">Normal gecikme</string>
     <string name="smartbar_longpress_delay_long">Uzun gecikme</string>

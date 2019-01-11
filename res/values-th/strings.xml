@@ -16,10 +16,91 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
+    <string name="bottom_nav_navigation_title">แถบนำทาง</string>
+    <string name="navbar_size">ขนาดบาร์</string>
+    <string name="navbar_mode">โหมดแถบนำทาง</string>
+    <string name="navbar_mode_summary">เลือกโหมดการนำทางสำหรับอุปกรณ์</string>
+    <string name="navbar_visibility">เปิดใช้งานแถบนำทาง</string>
+    <string name="navigationbar_settings_summary">ปรับแต่งรูปแบบและลักษณะการทำงานของแถบนำทาง</string>
+    <string name="navbar_general_title">ขั้นสูง</string>
+    <string name="navigation_bar_left_title">โหมดมือซ้าย</string>
+    <string name="navigation_bar_left_summary">วางแถบนำทางที่ด้านซ้ายของหน้าจอในโหมดแนวนอน</string>
+    <string name="smartbar_interface">SmartBar</string>
+    <string name="icon_pack_picker_dialog_title">ชุดไอคอน</string>
+    <string name="image_exceeds_max_allowed_size">ขนาดภาพต้องไม่เกิน 512 x 512</string>
+    <string name="invalid_icon_from_uri">ไม่สามารถโหลดภาพจากผู้ให้บริการเนื้อหา</string>
+    <string name="picker_activities">กำลังเปิดการใช้งาน</string>
+    <string name="select_custom_app_title">เลือกแอฟที่กำหนดเอง</string>
+    <string name="select_custom_activity_title">เลือกกิจกรรมที่กำหนดเอง</string>
+    <string name="profile_applist_title">แอปพลิเคชัน</string>
+    <string name="default_string">ดั้งเดิม</string>
+    <string name="default_settings">การตั้งค่าเดิม</string>
+    <string name="default_settings_summary">แถบนำทางเดิมของ AOSP </string>
+    <string name="swipeup_settings_summary">ปัดขึ้นเพื่อสลับแอป</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
+    <string name="choose_action_title">เลือกการกระทำ</string>
+    <string name="action_entry_default_action">การตั้งค่าเริ่มต้น</string>
+    <string name="action_entry_select_app">เลือกแอปพลิเคชัน</string>
+    <string name="action_entry_custom_action">เลือกกิจกรรมที่กำหนดเอง</string>
     <!-- Fling -->
+    <string name="fling_settings">การตั้งค่า Fling</string>
+    <string name="fling_settings_summary">ปรับแต่งแถบนำทางที่หลากหลายและใช้งานใด้เต็มรูปแบบ</string>
+    <string name="fling_interface">Fling</string>
+    <string name="fling_enable_title">เปิดใช้งาน Fling</string>
+    <string name="fling_def_summary">ไม่มีการกระทำ</string>
+    <string name="fling_swipe_actions">ใช้งานการปัด</string>
+    <string name="fling_tap_actions">ใช้งานการแตะ</string>
+    <string name="fling_short_swipe_right">ปัดไปทางขวาสั้นๆ</string>
+    <string name="fling_short_swipe_left">ปัดไปทางซ้ายสั้นๆ</string>
+    <string name="fling_long_swipe_right">ปัดไปทางขวายาวๆ</string>
+    <string name="fling_long_swipe_left">ปัดไปทางซ้ายยาวๆ</string>
+    <string name="fling_right_up_swipe">ปัดนิ้วขึ้นทางด้านขวา</string>
+    <string name="fling_left_up_swipe">ปัดนิ้วขึ้นทางด้านซ้าย</string>
+    <string name="fling_single_tap">แตะครั้งเดียวทางด้านขวา</string>
+    <string name="fling_double_tap">แตะ2ครั้งทางด้านขวา</string>
+    <string name="fling_long_press">แตะค้างทางด้านขวา</string>
+    <string name="fling_single_left_tap">แตะครั้งเดียวทางด้านซ้าย</string>
+    <string name="fling_double_left_tap">แตะ2ครั้งทางด้านซ้าย</string>
+    <string name="fling_long_left_press">แตะค้างทางด้านซ้าย</string>
+    <string name="long_swipe_portrait_title">แนวตั้ง</string>
+    <string name="long_swipe_landscape_title">แนวนอน</string>
+    <string name="portrait_right_swipe_title">ปัดไปด้านขวาในโหมดแนวตั้ง</string>
+    <string name="portrait_left_swipe_title">ปัดไปด้านซ้ายในโหมดแนวตั้ง</string>
+    <string name="landscape_right_swipe_title">ปัดไปด้านขวาในโหมดแนวตั้ง</string>
+    <string name="landscape_left_swipe_title">ปัดไปด้านซ้ายในโหมดแนวตั้ง</string>
+    <string name="vertical_up_swipe_title">ปัดขึ้นในแนวตั้ง</string>
+    <string name="vertical_down_swipe_title">ปัดลงในแนวตั้ง</string>
+    <string name="up_swipe_title">ปัดขึ้น</string>
+    <string name="down_swipe_title">ปัดลง</string>
+    <string name="long_swipe_reset">ตั้งค่าใหม่</string>
+    <string name="fling_advanced">ขั้นสูง</string>
+    <string name="fling_long_swipe_title">ขีดจำกัดการปัดนิ้วยาว</string>
+    <string name="fling_trails_enable_title">เปิดใช้งานท่าทาง</string>
+    <string name="fling_trails_enable_summary">แสดงเส้นทางแนวการปัด</string>
+    <string name="fling_trails_color_title">สีของเส้น</string>
+    <string name="fling_trails_width_title">ความกว้างของเส้น</string>
+    <string name="fling_appearance">ลักษณะที่ปรากฏ</string>
+    <string name="fling_show_logo_title">โชว์โลโก้ Fling</string>
+    <string name="fling_animate_logo_title">โลโก้เคลื่อนไหว</string>
+    <string name="fling_animate_logo_summary">ลักษณะการเคลื่อนใหวของโลโก้เมื่อสัมผัส</string>
+    <string name="fling_logo_color">สีของโลโก้</string>
+    <string name="fling_logo_custom_logo_pick_title">โลโก้ที่กำหนดเอง</string>
+    <string name="fling_logo_custom_logo_image_pick_title">โลโก้ที่กำหนดเองด้วยภาพ</string>
+    <string name="fling_logo_custom_logo_reset_title">ตั้งค่าโลโก้เป็นแบบเดิม</string>
+    <string name="fling_show_ripple_title">แสดงการเคลื่อนใหว</string>
+    <string name="fling_show_ripple_summary">การเคลื่อนใหวเมื่อสัมผัส</string>
+    <string name="fling_ripple_color">การเคลื่อนใหวของสี</string>
+    <string name="fling_longpress_timeout_label_left">หน่วงเวลาน้อยสุด</string>
+    <string name="fling_longpress_timeout_label_right">หน่วงเวลานานสุด</string>
+    <string name="fling_longpress_title">ค่าหน่วงเวลาในการกดค้าง</string>
     <!-- Pulse navigation bar music visualizer -->
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">แอปที่ติดบันชีดำ(blacklist)</string>
+    <string name="pulse_blacklist_apps_cat_title">บัญชีดำ</string>
+    <string name="pulse_blacklist_apps_title">แอปที่ติดบันชีดำ(blacklist)</string>
+    <string name="pulse_blacklist_apps_summary">แอพที่ไม่แสดงในแผงแจ้งเตือน</string>
+    <string name="pulse_blacklist_add_apps_title">เพิ่มแอป</string>
+    <string name="pulse_blacklist_add_apps_summary">แตะเพื่อเพิ่มแอป แตะแอปที่เพิ่มแล้วเพื่อนำออก</string>
     <!-- Navbar height -->
     <!-- SmartBar -->
 </resources>

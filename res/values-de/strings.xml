@@ -37,6 +37,7 @@
     <string name="default_string">Standard</string>
     <string name="default_settings">Standardeinstellungen</string>
     <string name="default_settings_summary">Standard AOSP Navigationsleiste</string>
+    <string name="swipeup_settings_summary">Nach oben wischen für App-Übersicht</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Aktion wählen</string>
     <string name="action_entry_default_action">Standardeinstellungen</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Automatische Farbauswahl bei Pulse</string>
     <string name="pulse_auto_color_summary">Farbe mit Musikcover synchronisieren. Überschreibt Deckkraft der Lavalampe und Linien.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Blockierte Anwendungen</string>
+    <string name="pulse_blacklist_summary">Apps, die für Pulse übersprungen werden</string>
+    <string name="pulse_blacklist_apps_cat_title">Sperrliste</string>
+    <string name="pulse_blacklist_apps_title">Blockierte Anwendungen</string>
+    <string name="pulse_blacklist_apps_summary">Nicht angezeigte/blockierte Anwendungen</string>
+    <string name="pulse_blacklist_add_apps_title">App hinzufügen</string>
+    <string name="pulse_blacklist_add_apps_summary">Hier zum Hinzufügen tippen, zum Entfernen auf eine vorhandene App tippen</string>
     <string name="pulse_custom_dimen">Leisten-Breite</string>
     <string name="pulse_custom_div">Leisten-Abstand</string>
     <string name="pulse_filled_block_size">Blockgröße</string>

@@ -37,6 +37,7 @@
     <string name="default_string">За замовчуванням</string>
     <string name="default_settings">Налаштування за замовчуванням</string>
     <string name="default_settings_summary">Панель навігації AOSP за замовчуванням</string>
+    <string name="swipeup_settings_summary">Свайп вгору для перемикання додатків</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Виберіть дію</string>
     <string name="action_entry_default_action">Налаштування за замовчуванням</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Автоматичний колір Pulse</string>
     <string name="pulse_auto_color_summary">Встановити колір відповідно до кольору обкладинки альбому. Перевизначає Lava Lamp та непрозорість ліній.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Чорний список додатків</string>
+    <string name="pulse_blacklist_summary">Додатки, які будуть пропущенні Pulse</string>
+    <string name="pulse_blacklist_apps_cat_title">Чорний список</string>
+    <string name="pulse_blacklist_apps_title">Чорний список додатків</string>
+    <string name="pulse_blacklist_apps_summary">Додаток не відображатиметься в панелі</string>
+    <string name="pulse_blacklist_add_apps_title">Додати додаток</string>
+    <string name="pulse_blacklist_add_apps_summary">Натисніть тут, щоб додати, або натисніть на доданий додаток, щоб видалити його</string>
     <string name="pulse_custom_dimen">Ширина панелі</string>
     <string name="pulse_custom_div">Відстань між панелями</string>
     <string name="pulse_filled_block_size">Розмір блоків</string>

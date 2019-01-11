@@ -37,6 +37,7 @@
     <string name="default_string">Gốc</string>
     <string name="default_settings">Cài đặt gốc</string>
     <string name="default_settings_summary">Thanh điều hướng AOSP gốc</string>
+    <string name="swipeup_settings_summary">Kéo mạnh lên đến chuyển đổi ứng dụng</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Chọn hành động</string>
     <string name="action_entry_default_action">Cài đặt mặc định</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Màu sắc nhấp nháy tự động</string>
     <string name="pulse_auto_color_summary">Đồng bộ hóa màu sắc với ảnh album. Ghi đè Đèn Dung Nham và độ mờ đường viền.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Danh sách đen ứng dụng</string>
+    <string name="pulse_blacklist_summary">Các ứng dụng sẽ bị bỏ qua Sóng nhạc</string>
+    <string name="pulse_blacklist_apps_cat_title">Danh sách đen</string>
+    <string name="pulse_blacklist_apps_title">Danh sách đen ứng dụng</string>
+    <string name="pulse_blacklist_apps_summary">Ứng dụng không hiển thị trong bảng điều khiển</string>
+    <string name="pulse_blacklist_add_apps_title">Thêm ứng dụng</string>
+    <string name="pulse_blacklist_add_apps_summary">Chạm vào đây để thêm, chạm vào ứng dụng đã thêm để xóa</string>
     <string name="pulse_custom_dimen">Độ rộng thanh</string>
     <string name="pulse_custom_div">Khoảng cách thanh</string>
     <string name="pulse_filled_block_size">Kích thước khối</string>

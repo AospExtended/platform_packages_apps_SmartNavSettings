@@ -37,6 +37,7 @@
     <string name="default_string">Standardowe</string>
     <string name="default_settings">Ustawienia domyślne</string>
     <string name="default_settings_summary">Domyślny pasek nawigacji AOSP</string>
+    <string name="swipeup_settings_summary">Przesuń palcem do góry aby przełączać aplikacje</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Wybierz czynność</string>
     <string name="action_entry_default_action">Ustawienia domyślne</string>
@@ -136,6 +137,13 @@
     <string name="pulse_auto_color_title">Automatyczny kolor puls</string>
     <string name="pulse_auto_color_summary">Synchronizuj kolory z okładką albumu. Zastępuje lampę lawową i przezroczystość linii.</string>
     <!-- Pulse config -->
+    <string name="pulse_blacklist_title">Czarna lista aplikacji</string>
+    <string name="pulse_blacklist_summary">Aplikacje pomijane przez Pulse</string>
+    <string name="pulse_blacklist_apps_cat_title">Czarna lista</string>
+    <string name="pulse_blacklist_apps_title">Czarna lista aplikacji</string>
+    <string name="pulse_blacklist_apps_summary">Aplikacje nie będą wyświetlane w panelu</string>
+    <string name="pulse_blacklist_add_apps_title">Dodaj aplikację</string>
+    <string name="pulse_blacklist_add_apps_summary">Stuknij tutaj, aby dodać, stuknij w dodaną aplikację, aby ją usunąć</string>
     <string name="pulse_custom_dimen">Szerokość</string>
     <string name="pulse_custom_div">Odstęp</string>
     <string name="pulse_filled_block_size">Rozmiar bloku</string>
