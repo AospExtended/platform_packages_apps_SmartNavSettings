@@ -37,6 +37,7 @@ import android.provider.Settings;
 import android.provider.SearchIndexableResource;
 
 import org.aospextended.extensions.preference.CustomSeekBarPreference;
+import org.aospextended.extensions.preference.SystemSettingSwitchPreference;
 
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.internal.logging.nano.MetricsProto;
@@ -53,6 +54,7 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
     private static final String KEY_NAVBAR_MODE = "navbar_mode";
     private static final String KEY_DEFAULT_NAVBAR_SETTINGS = "default_settings";
     private static final String KEY_SWIPE_GESTURES_SETTINGS = "swipeup_gesture_settings";
+    private static final String KEY_ONEHAND_UI_TOGGLE = "one_hand_mode_enabled";
     private static final String KEY_FLING_NAVBAR_SETTINGS = "fling_settings";
     private static final String KEY_CATEGORY_NAVIGATION_INTERFACE = "category_navbar_interface";
     private static final String KEY_CATEGORY_NAVIGATION_GENERAL = "category_navbar_general";
@@ -71,6 +73,7 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
     private PreferenceScreen mSmartbarSettings;
     private Preference mDefaultSettings;
     private Preference mSwipeupSettings;
+    private SystemSettingSwitchPreference mOneHandMode;
     private CustomSeekBarPreference mBarHeightPort;
     private CustomSeekBarPreference mBarHeightLand;
     private CustomSeekBarPreference mBarWidth;
@@ -87,6 +90,7 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
         mNavbarMode = (ListPreference) findPreference(KEY_NAVBAR_MODE);
         mDefaultSettings = (Preference) findPreference(KEY_DEFAULT_NAVBAR_SETTINGS);
         mSwipeupSettings = (Preference) findPreference(KEY_SWIPE_GESTURES_SETTINGS);
+        mOneHandMode = (SystemSettingSwitchPreference) findPreference(KEY_ONEHAND_UI_TOGGLE);
         mFlingSettings = (PreferenceScreen) findPreference(KEY_FLING_NAVBAR_SETTINGS);
         mSmartbarSettings = (PreferenceScreen) findPreference(KEY_SMARTBAR_SETTINGS);
         mPulseSettings = (PreferenceScreen) findPreference(KEY_PULSE_SETTINGS);
@@ -140,6 +144,8 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
                 mSwipeupSettings.setEnabled(false);
                 mSwipeupSettings.setSelectable(false);
                 }
+                mOneHandMode.setEnabled(true);
+                mOneHandMode.setSelectable(true);
                 mSmartbarSettings.setEnabled(false);
                 mSmartbarSettings.setSelectable(false);
                 mFlingSettings.setEnabled(false);
@@ -151,6 +157,8 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
                 disableSwipeup();
                 mSwipeupSettings.setEnabled(false);
                 mSwipeupSettings.setSelectable(false);
+                mOneHandMode.setEnabled(false);
+                mOneHandMode.setSelectable(false);
                 mSmartbarSettings.setEnabled(true);
                 mSmartbarSettings.setSelectable(true);
                 mFlingSettings.setEnabled(false);
@@ -162,6 +170,8 @@ public class NavigationBarSettings extends SettingsPreferenceFragment implements
                 disableSwipeup();
                 mSwipeupSettings.setEnabled(false);
                 mSwipeupSettings.setSelectable(false);
+                mOneHandMode.setEnabled(false);
+                mOneHandMode.setSelectable(false);
                 mSmartbarSettings.setEnabled(false);
                 mSmartbarSettings.setSelectable(false);
                 mFlingSettings.setEnabled(true);
