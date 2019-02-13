@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Normalne opóźnienie</string>
     <string name="smartbar_longpress_delay_long">Długie opóźnienie</string>
     <string name="smartbar_custom_icon_size_title">Niestandardowe skalowanie ikon</string>
-    <string name="one_handed_mode_title">Tryb jednoręczny</string>
-    <string name="one_handed_mode_summary">Umożliwia przesuwanie na pasku nawigacyjnym, aby włączyć tryb jednoręczny</string>
     <string name="smartbar_double_tap_sleep_title">Stuknij dwukrotnie aby uśpić</string>
     <string name="smartbar_double_tap_sleep_summary">Dwukrotne stuknięcie w pusty pasek nawigacyjny wprowadza w tryb uśpienia</string>
     <string name="reset">Resetuj</string>

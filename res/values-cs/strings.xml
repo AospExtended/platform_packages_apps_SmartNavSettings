@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Běžná prodleva</string>
     <string name="smartbar_longpress_delay_long">Dlouhá prodleva</string>
     <string name="smartbar_custom_icon_size_title">Vlastní velikost ikon</string>
-    <string name="one_handed_mode_title">Režim jedné ruky</string>
-    <string name="one_handed_mode_summary">Umožnit zapnutí režimu jednou rukou posunutím přes navigační panel</string>
     <string name="smartbar_double_tap_sleep_title">Dvojím klepnutím uspat</string>
     <string name="smartbar_double_tap_sleep_summary">Dvojím poklepáním na prázdné místo navigačního panelu uspat zařízení</string>
     <string name="reset">Resetovat</string>

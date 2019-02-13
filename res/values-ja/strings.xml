@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">通常の遅延</string>
     <string name="smartbar_longpress_delay_long">長い遅延</string>
     <string name="smartbar_custom_icon_size_title">カスタムアイコンサイズ</string>
-    <string name="one_handed_mode_title">片手モード</string>
-    <string name="one_handed_mode_summary">ナビゲーションバーをスワイプして片手モードを有効</string>
     <string name="smartbar_double_tap_sleep_title">ダブルタップしてスリープ</string>
     <string name="smartbar_double_tap_sleep_summary">ナビゲーションバーの空きエリアをダブルタップしてスリープ</string>
     <string name="reset">リセット</string>

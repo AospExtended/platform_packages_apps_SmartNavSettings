@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Délai normal</string>
     <string name="smartbar_longpress_delay_long">Délai long</string>
     <string name="smartbar_custom_icon_size_title">Taille d\'icône personnalisée</string>
-    <string name="one_handed_mode_title">Mode à une main</string>
-    <string name="one_handed_mode_summary">Autoriser le glissement sur la barre de navigation pour activer le mode à une main</string>
     <string name="smartbar_double_tap_sleep_title">Appui double pour mettre en veille</string>
     <string name="smartbar_double_tap_sleep_summary">Appuyer deux fois sur l\'espace vide de la barre de navigation pour mettre en veille</string>
     <string name="reset">Réinitialiser</string>

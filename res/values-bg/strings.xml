@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Нормално забавяне</string>
     <string name="smartbar_longpress_delay_long">Повече забавяне</string>
     <string name="smartbar_custom_icon_size_title">Потребителски мащаб на икона</string>
-    <string name="one_handed_mode_title">Режим на използване с една ръка</string>
-    <string name="one_handed_mode_summary">Плъзнете върху лентата за навигация за да включите режимът на използване с една ръка</string>
     <string name="smartbar_double_tap_sleep_title">Двукратно почукване за заспиване</string>
     <string name="smartbar_double_tap_sleep_summary">Двукратно почукване върху празна област от навигационната лента за заспиване</string>
     <string name="reset">Нулиране</string>

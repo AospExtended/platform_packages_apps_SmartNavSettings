@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Običajni zamik</string>
     <string name="smartbar_longpress_delay_long">Dolg zamik</string>
     <string name="smartbar_custom_icon_size_title">Velikost ikone po meri</string>
-    <string name="one_handed_mode_title">Enoročni način</string>
-    <string name="one_handed_mode_summary">Dovoli poteg po vrstici za krmarjenje, da omogočite enoročni način</string>
     <string name="smartbar_double_tap_sleep_title">Dvojni tap za spanje</string>
     <string name="smartbar_double_tap_sleep_summary">Dvakrat tapnite na prazno področje v vrstici za krmarjenje za spanje</string>
     <string name="reset">Ponastavi</string>

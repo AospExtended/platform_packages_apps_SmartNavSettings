@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">正常延遲</string>
     <string name="smartbar_longpress_delay_long">長延遲</string>
     <string name="smartbar_custom_icon_size_title">自訂圖示大小</string>
-    <string name="one_handed_mode_title">單手模式</string>
-    <string name="one_handed_mode_summary">允許在導覽列上滑動以啟用單手模式</string>
     <string name="smartbar_double_tap_sleep_title">輕觸兩下即可休眠</string>
     <string name="smartbar_double_tap_sleep_summary">輕觸兩下空白導航列來休眠</string>
     <string name="reset">重設</string>

@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Atraso normal</string>
     <string name="smartbar_longpress_delay_long">Atraso longo</string>
     <string name="smartbar_custom_icon_size_title">Tamanho de ícone personalizado</string>
-    <string name="one_handed_mode_title">Modo para uma mão</string>
-    <string name="one_handed_mode_summary">Permite percorrer na barra de navegação para habilitar o modo de uma mão</string>
     <string name="smartbar_double_tap_sleep_title">Dois toques para dormir</string>
     <string name="smartbar_double_tap_sleep_summary">Toque duplo nas áreas vazias da barra de navegação para dormir</string>
     <string name="reset">Redefinir</string>

@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">सामान्य देरी</string>
     <string name="smartbar_longpress_delay_long">अधिक विलंब</string>
     <string name="smartbar_custom_icon_size_title">कस्टम चिह्न स्केलिंग</string>
-    <string name="one_handed_mode_title">एक हाथ मोड</string>
-    <string name="one_handed_mode_summary">एक हाथ मोड को सक्षम करने के लिए नेविगेशन बार पर स्वाइप करने की अनुमति दें</string>
     <string name="smartbar_double_tap_sleep_title">स्लीप करने के लिए दो बार टैप करें</string>
     <string name="smartbar_double_tap_sleep_summary">स्लीप मोड के लिए खाली नेविगेशन बार क्षेत्रों पर डबल टैप</string>
     <string name="reset">रीसेट</string>

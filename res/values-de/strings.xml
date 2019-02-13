@@ -197,8 +197,6 @@
     <string name="smartbar_longpress_delay_normal">Normale Verzögerung</string>
     <string name="smartbar_longpress_delay_long">Lange Verzögerung</string>
     <string name="smartbar_custom_icon_size_title">Benutzerdefinierte Symbolgröße</string>
-    <string name="one_handed_mode_title">Einhandmodus</string>
-    <string name="one_handed_mode_summary">Einhandmodus durch Streichen über die Navigationsleiste aktivieren</string>
     <string name="smartbar_double_tap_sleep_title">Doppeltippen für Standbymodus</string>
     <string name="smartbar_double_tap_sleep_summary">Für Ruhezustand zweimal auf einen leeren Bereich der Navigationsleiste tippen</string>
     <string name="reset">Zurücksetzen</string>

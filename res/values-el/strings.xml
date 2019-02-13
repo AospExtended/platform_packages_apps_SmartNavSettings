@@ -78,6 +78,7 @@
     <string name="long_swipe_reset">Επαναφορά</string>
     <string name="fling_advanced">Για προχωρημένους</string>
     <string name="fling_long_swipe_title">Όριο μακριού συρσίματος</string>
+    <string name="fling_long_swipe_summary">Η ρύθμιση του ορίου βασίζεται στο ποσοστό πλάτους / ύψους της περιοχής διεπαφής</string>
     <string name="fling_trails_enable_title">Ενεργοποίηση χειρονομιών γραφίδας</string>
     <string name="fling_trails_enable_summary">Εμφανίσετε ένα ίχνος σχετικά με χειρονομίες</string>
     <string name="fling_trails_color_title">Χρώμα ίχνους</string>
@@ -98,6 +99,7 @@
     <string name="fling_longpress_title">Καθυστέρηση παρατεταμένου πατήματος</string>
     <string name="fling_longpress_summary">Προσαρμογή ενεργού χρόνου για την εκτέλεση ενέργειας παρατεταμένου πατήματος</string>
     <string name="fling_keyboard_cursors_title">Ενέργειες δρομέα δυναμικού πληκτρολογίου</string>
+    <string name="fling_keyboard_cursors_summary">Οι ενέργειες διπλού πατήματος αριστερά και δεξιά γίνονται αριστερές και δεξιές ενέργειες δρομέα πληκτρολογίου εάν το πληκτρολόγιο είναι ανοιχτό</string>
     <string name="fling_logo_opacity_title">Αδιαφάνεια λογότυπου Ρίψης</string>
     <string name="fling_factory_reset_title">Επαναφορά σε αρχικές ρυθμίσεις</string>
     <string name="fling_factory_reset_confirm">Είστε βέβαιοι ότι θέλετε να επαναφέρετε την Ρίψη στις αρχικές ρυθμίσεις;</string>
@@ -120,6 +122,7 @@
     <string name="pulse_render_mode_fading_bars">Ξεθώριασμα μπλοκ</string>
     <string name="pulse_render_mode_solid_lines">Συμπαγείς γραμμές</string>
     <string name="fling_pulse_color">Χρώμα παλμού</string>
+    <string name="fling_pulse_color_summary">Χρήση επίσης ως εναλλακτική για αυτόματο χρώμα</string>
     <string name="eos_fling_lavalamp_title">Ενεργοποιήστε τον φωτισμό λάβας</string>
     <string name="eos_fling_lavalamp_summary">Ο παλμός ζωντανεύει μια μείξη χρωμάτων ομαλή του στυλ λάμπας λάβας</string>
     <string name="pulse_advanced_category">Για προχωρημένους</string>
@@ -157,6 +160,9 @@
     <string name="smartbar_settings_summary">Πλήρως προσαρμόσιμη γραμμή πλοήγησης</string>
     <string name="smartbar_editor_title">Εκκίνηση της λειτουργίας επεξεργασίας</string>
     <string name="smartbar_editor_summary">Άνοιγμα επεξεργαστή πλήκτρων έξυπνης μπάρας</string>
+    <string name="smartbar_help_policy_notice_summary">Με το πάτημα ενός πλήκτρου εμφανίζεται το μενού επεξεργασίας. Μια σύντομη παύση σε οποιοδήποτε πλήκτρο ενεργοποιεί μια επιλογή ταξινόμησης κουμπιού μεταφοράς και απόθεσης. \n\n H ενεργοποίηση των ενεργειών διπλου πατήματος προκαλεί μια μικρή καθυστέρηση στην απόκριση με ένα πάτημα.</string>
+    <string name="smartbar_context_menu_position_title">Θέση διάταξης κουμπιών πλαισίου</string>
+    <string name="smartbar_context_menu_position_summary">Ορίστε την θέση των συμφραζομένων κουμπιών όπως το μενού, τον επιλογέα κλπ</string>
     <string name="smartbar_right">Δεξιά</string>
     <string name="smartbar_left">Αριστερά</string>
     <string name="smartbar_button_animation_title">Εφέ πλήκτρων αφής</string>
@@ -186,12 +192,11 @@
     <string name="smartbar_config_restore_error_toast">Σφάλμα επαναφοράς προφίλ Smartbar</string>
     <string name="navbar_buttons_alpha_title">Διαφάνεια κουμπιών</string>
     <string name="smartbar_longpress_delay_title">Καθυστέρηση παρατεταμένου πατήματος πλήκτρου</string>
+    <string name="smartbar_longpress_delay_summary">Ρυθμίστε το όριο για το παρατεταμένο πάτημα</string>
     <string name="smartbar_longpress_delay_default">Προεπιλεγμένη καθυστέρηση (γρήγορη)</string>
     <string name="smartbar_longpress_delay_normal">Κανονική καθυστέρηση</string>
     <string name="smartbar_longpress_delay_long">Μεγάλη καθυστέρηση</string>
     <string name="smartbar_custom_icon_size_title">Προσαρμοσμένη κλιμάκωση εικονιδίου</string>
-    <string name="one_handed_mode_title">Λειτουργία ενός χεριού</string>
-    <string name="one_handed_mode_summary">Επιτρέπει το σύρσιμο στη γραμμή πλοήγησης για να ενεργοποιήσετε τη λειτουργία ενός χεριού</string>
     <string name="smartbar_double_tap_sleep_title">Διπλό χτύπημα για αναστολή</string>
     <string name="smartbar_double_tap_sleep_summary">Διπλό πάτημα στα κενά της γραμμής πλοήγησης για αναστολή</string>
     <string name="reset">Επαναφορά</string>
