@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Нормальная задержка</string>
     <string name="smartbar_longpress_delay_long">Большая задержка</string>
     <string name="smartbar_custom_icon_size_title">Масштабирование пользовательских значков</string>
+    <string name="one_hand_mode_title">Режим «Управление одной рукой»</string>
+    <string name="one_hand_mode_summary">Включать «Управления одной рукой» свайпом по панели навигации</string>
     <string name="smartbar_double_tap_sleep_title">Выключать экран при двойном нажатии</string>
     <string name="smartbar_double_tap_sleep_summary">Двойное нажатие на пустую область панели навигации для сна</string>
     <string name="reset">Сбросить</string>

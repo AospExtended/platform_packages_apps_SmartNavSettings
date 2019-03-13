@@ -84,7 +84,7 @@
     <string name="fling_trails_color_title">Barva sledi</string>
     <string name="fling_trails_width_title">Širina sledi</string>
     <string name="fling_appearance">Izgled</string>
-    <string name="fling_show_logo_title">Pokaži Fling logotip</string>
+    <string name="fling_show_logo_title">Prikaži Fling logotip</string>
     <string name="fling_animate_logo_title">Animiraj logotip</string>
     <string name="fling_animate_logo_summary">Logotip animira ob dogodkih dotika</string>
     <string name="fling_logo_color">Barva logotipa</string>
@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Običajni zamik</string>
     <string name="smartbar_longpress_delay_long">Dolg zamik</string>
     <string name="smartbar_custom_icon_size_title">Velikost ikone po meri</string>
+    <string name="one_hand_mode_title">Enoročni način</string>
+    <string name="one_hand_mode_summary">Dovoli poteg po vrstici za krmarjenje, da omogočite enoročni način</string>
     <string name="smartbar_double_tap_sleep_title">Dvojni tap za spanje</string>
     <string name="smartbar_double_tap_sleep_summary">Dvakrat tapnite na prazno področje v vrstici za krmarjenje za spanje</string>
     <string name="reset">Ponastavi</string>

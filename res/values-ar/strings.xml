@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">تأخير طبيعي</string>
     <string name="smartbar_longpress_delay_long">تأخير طويل</string>
     <string name="smartbar_custom_icon_size_title">تحجيم الرمز المخصص</string>
+    <string name="one_hand_mode_title">وضع اليد الواحدة</string>
+    <string name="one_hand_mode_summary">تسمح بالسحب على شريط التنقل لتفعيل وضع اليد الواحدة</string>
     <string name="smartbar_double_tap_sleep_title">الضغط مرتين لإطفاء الشاشة</string>
     <string name="smartbar_double_tap_sleep_summary">ضغط مزدوج على مناطق شريط التنقل الفارغة لإغلاق الشاشة</string>
     <string name="reset">إعادة تعيين</string>

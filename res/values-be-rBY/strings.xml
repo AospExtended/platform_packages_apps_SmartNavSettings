@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Нармальная затрымка</string>
     <string name="smartbar_longpress_delay_long">Доўгая затрымка</string>
     <string name="smartbar_custom_icon_size_title">Памер карыстацкіх значкоў</string>
+    <string name="one_hand_mode_title">Рэжым «Кіраванне адной рукой»</string>
+    <string name="one_hand_mode_summary">Дазваляе свайпом па панэлі навігацыі ўключаць рэжым \"Кіраванне адной рукой\"</string>
     <string name="smartbar_double_tap_sleep_title">Выключаць экран пры падвойным націску</string>
     <string name="smartbar_double_tap_sleep_summary">Падвойны націск на пустую вобласць панэлі навігацыі для сну</string>
     <string name="reset">Скінуць</string>

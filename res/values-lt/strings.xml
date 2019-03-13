@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Normalus delsimas</string>
     <string name="smartbar_longpress_delay_long">Ilgas delsimas</string>
     <string name="smartbar_custom_icon_size_title">Pasirinktinis piktogramos mastelio keitimas</string>
+    <string name="one_hand_mode_title">Vienos rankos režimas</string>
+    <string name="one_hand_mode_summary">Norėdami įjungti vieną ranką, braukite naršymo juostoje</string>
     <string name="smartbar_double_tap_sleep_title">Dukart bakstelėti norint užmigdyti</string>
     <string name="smartbar_double_tap_sleep_summary">Dukart spustelėkite tuščią naršymo juostą miegui</string>
     <string name="reset">Atstatyti iš naujo</string>

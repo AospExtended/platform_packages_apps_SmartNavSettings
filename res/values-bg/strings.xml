@@ -48,7 +48,7 @@
     <string name="fling_settings_summary">Уникална и напълно адаптивна навигационна лента, базирана на жестове</string>
     <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">Активиране на Fling</string>
-    <string name="fling_back_home_policy">Бутоните Back и Home трябва винаги да бъдат включени. За да промените назначенията на тези бутони, първо настройте желаните параметри.\n\nВключването на действия с двоен тап ще предизвика леко забавяне при единичен тап.</string>
+    <string name="fling_back_home_policy">Бутоните Назад и Начало трябва винаги да бъдат включени. За да промените назначенията на тези бутони, първо настройте желаните параметри.\n\nВключването на действия с двукратно докосване ще предизвика леко забавяне при единично докосване.</string>
     <string name="fling_split_bar_policy">Създаването на действия само вдясно/вляво ще разделят областите на докосване за целия панел.</string>
     <string name="fling_def_summary">Няма зададено действие</string>
     <string name="fling_swipe_actions">Жестове с плъзване</string>
@@ -60,10 +60,10 @@
     <string name="fling_right_up_swipe">Плъзнете нагоре и надясно</string>
     <string name="fling_left_up_swipe">Плъзнете нагоре и наляво</string>
     <string name="fling_single_tap">Единично докосване отдясно</string>
-    <string name="fling_double_tap">Двойно докосване отдясно</string>
+    <string name="fling_double_tap">Двукратно докосване отдясно</string>
     <string name="fling_long_press">Дълго натискане отдясно</string>
     <string name="fling_single_left_tap">Единично докосване отляво</string>
-    <string name="fling_double_left_tap">Двойно докосване отляво</string>
+    <string name="fling_double_left_tap">Двукратно докосване отляво</string>
     <string name="fling_long_left_press">Дълго натискане отляво</string>
     <string name="long_swipe_portrait_title">Портрет</string>
     <string name="long_swipe_landscape_title">Пейзаж</string>
@@ -99,7 +99,7 @@
     <string name="fling_longpress_title">Забавяне при продължително натискане на бутон</string>
     <string name="fling_longpress_summary">Регулиране на прага на времето за изпълнение на действия при дълго натискане</string>
     <string name="fling_keyboard_cursors_title">Динамично действие на курсора на клавиатурата</string>
-    <string name="fling_keyboard_cursors_summary">Двойно натискане вляво или вдясно премества курсора в съответната страна, ако клавиатурата е отворена</string>
+    <string name="fling_keyboard_cursors_summary">Двукратно натискане вляво или вдясно премества курсора в съответната страна, ако клавиатурата е отворена</string>
     <string name="fling_logo_opacity_title">Прозрачност на логото на Fling</string>
     <string name="fling_factory_reset_title">Възстановяване на стандартните настройки</string>
     <string name="fling_factory_reset_confirm">Сигурни ли сте, че искате да възстановите настройките на Fling?</string>
@@ -160,7 +160,7 @@
     <string name="smartbar_settings_summary">Напълно адаптивна навигационна лента</string>
     <string name="smartbar_editor_title">Включване на режим редактиране</string>
     <string name="smartbar_editor_summary">Отвори редактора на бутони на Smartbar</string>
-    <string name="smartbar_help_policy_notice_summary">Долгото натискане на бутон отваря режим за редакция. Кратко задържане включва режим за преместване.\n\n Включването на двоен тап ще предизвика леко забавяне при единични докосвания.</string>
+    <string name="smartbar_help_policy_notice_summary">Продължително натискане на който и да е бутон отваря режим за редакция. Кратко задържане включва режим за преместване.\n\n Включването на двукратно докосване ще предизвика леко забавяне при единични докосвания.</string>
     <string name="smartbar_context_menu_position_title">Разположение на контекстните бутони</string>
     <string name="smartbar_context_menu_position_summary">Настройка на позицията на контекстните бутони (меню, избор на клавиатура и др.)</string>
     <string name="smartbar_right">Дясно</string>
@@ -171,8 +171,8 @@
     <string name="smartbar_button_animation_spring">Пролет</string>
     <string name="smartbar_button_animation_flip">Обърни</string>
     <string name="smartbar_button_animation_pixel">Пиксел</string>
-    <string name="smartbar_button_animation_pixel_home">Пиксел (Само Home бутон)</string>
-    <string name="smartbar_button_animation_pixel_home_ripple">Пулсации с пиксел (Home бутон)</string>
+    <string name="smartbar_button_animation_pixel_home">Пиксел (Само Начален бутон)</string>
+    <string name="smartbar_button_animation_pixel_home_ripple">Пулсации с пиксел (Начален бутон)</string>
     <string name="smartbar_factory_reset_title">Възстановяване на стандартните настройки</string>
     <string name="smartbar_factory_reset_confirm">Сигурни ли сте, че искате да възстановите настройките на Smartbar?</string>
     <string name="smartbar_ime_action_title">Метод на въвеждане и медийни действия</string>
@@ -197,7 +197,9 @@
     <string name="smartbar_longpress_delay_normal">Нормално забавяне</string>
     <string name="smartbar_longpress_delay_long">Повече забавяне</string>
     <string name="smartbar_custom_icon_size_title">Потребителски мащаб на икона</string>
-    <string name="smartbar_double_tap_sleep_title">Двукратно почукване за заспиване</string>
-    <string name="smartbar_double_tap_sleep_summary">Двукратно почукване върху празна област от навигационната лента за заспиване</string>
+    <string name="one_hand_mode_title">Режим на използване с една ръка</string>
+    <string name="one_hand_mode_summary">Позволете плъзването на лентата за навигация да включва режим на използване с една ръка</string>
+    <string name="smartbar_double_tap_sleep_title">Двукратно докосване за заспиване</string>
+    <string name="smartbar_double_tap_sleep_summary">Двукратно докосване върху празна част от навигационната лента за заспиване</string>
     <string name="reset">Нулиране</string>
 </resources>

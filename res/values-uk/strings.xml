@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Нормальна затримка</string>
     <string name="smartbar_longpress_delay_long">Довга затримка</string>
     <string name="smartbar_custom_icon_size_title">Налаштування масштабування піктограм</string>
+    <string name="one_hand_mode_title">Режим \"Керування однією рукою\"</string>
+    <string name="one_hand_mode_summary">Дозволяє проведенням по панелі навігації увімкнути режим \"Керування однією рукою\"</string>
     <string name="smartbar_double_tap_sleep_title">Вимикати екран при подвійному натисканні</string>
     <string name="smartbar_double_tap_sleep_summary">Подвійне натискання на порожню область панелі навігації для сну</string>
     <string name="reset">Скинути</string>

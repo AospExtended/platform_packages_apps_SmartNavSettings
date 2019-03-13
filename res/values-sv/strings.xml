@@ -16,10 +16,44 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
+    <string name="bottom_nav_navigation_title">Navigering</string>
+    <string name="navbar_interface_title">Gränssnitt</string>
+    <string name="navbar_size">Fältets storlek</string>
+    <string name="navbar_mode">Navigeringsläge</string>
+    <string name="navbar_general_title">Avancerad</string>
+    <string name="navigation_bar_left_title">Vänsterhänt läge</string>
+    <string name="navigation_bar_left_summary">Placera navigeringsfältet på vänster sida av skärmen i landskapsläge</string>
+    <string name="icon_pack_picker_dialog_title">Ikonpaket</string>
+    <string name="picker_activities">Aktiviteter</string>
+    <string name="profile_applist_title">Alla appar</string>
+    <string name="default_string">Standard</string>
+    <string name="default_settings">Standardinställningar</string>
+    <string name="default_settings_summary">Standard AOSP-navigeringsfält</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
+    <string name="action_entry_default_action">Standardinställningar</string>
     <!-- Fling -->
+    <string name="fling_swipe_actions">Svepgester</string>
+    <string name="fling_tap_actions">Gester vid tryck</string>
+    <string name="fling_short_swipe_right">Svep kort åt höger</string>
+    <string name="fling_short_swipe_left">Svep kort åt vänster</string>
+    <string name="fling_long_swipe_right">Svep långt åt höger</string>
+    <string name="fling_long_swipe_left">Svep långt åt vänster</string>
+    <string name="fling_right_up_swipe">Svep up (höger)</string>
+    <string name="fling_left_up_swipe">Svep up (vänster)</string>
+    <string name="long_swipe_portrait_title">Stående</string>
+    <string name="long_swipe_landscape_title">Liggande</string>
+    <string name="portrait_right_swipe_title">Stående svep åt höger</string>
+    <string name="portrait_left_swipe_title">Stående svep åt vänster</string>
+    <string name="landscape_right_swipe_title">Liggande svep åt höger</string>
+    <string name="landscape_left_swipe_title">Liggande svep åt vänster</string>
+    <string name="fling_advanced">Avancerad</string>
     <!-- Pulse navigation bar music visualizer -->
+    <string name="pulse_advanced_category">Avancerad</string>
     <!-- Pulse config -->
     <!-- Navbar height -->
+    <string name="navigation_bar_size_title">Fältets storlek</string>
+    <string name="portrait_title">Stående höjd</string>
+    <string name="land_vert_title">Liggande bredd</string>
+    <string name="land_hor_title">Liggande höjd</string>
     <!-- SmartBar -->
 </resources>

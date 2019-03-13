@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Độ trễ bình thường</string>
     <string name="smartbar_longpress_delay_long">Độ trễ lâu</string>
     <string name="smartbar_custom_icon_size_title">Tùy chỉnh tỷ lệ biểu tượng</string>
+    <string name="one_hand_mode_title">Chế độ một tay</string>
+    <string name="one_hand_mode_summary">Cho phép vuốt trên thanh điều hướng để kích hoạt chế độ một tay</string>
     <string name="smartbar_double_tap_sleep_title">Nhấn kép để tắt màn hình</string>
     <string name="smartbar_double_tap_sleep_summary">Nhấn đúp vào các vùng trống thanh điều hướng để ngủ</string>
     <string name="reset">Đặt lại</string>

@@ -96,7 +96,7 @@
     <string name="fling_ripple_color">Kolor plusku</string>
     <string name="fling_longpress_timeout_label_left">Mniejsze opóźnienie</string>
     <string name="fling_longpress_timeout_label_right">Większe opóźnienie</string>
-    <string name="fling_longpress_title">Opóznienie długiego naciśnięcia</string>
+    <string name="fling_longpress_title">Opóźnienie długiego naciśnięcia</string>
     <string name="fling_longpress_summary">Dostosuj czas potrzebny do wywołania aktywności długiego przytrzymania</string>
     <string name="fling_keyboard_cursors_title">Dynamiczne działanie kursorów klawiatury</string>
     <string name="fling_keyboard_cursors_summary">Dwukrotne dotknięcie lewej i prawej akcji staje się lewymi i prawymi klawiszami, jeśli klawiatura jest otwarta</string>
@@ -121,7 +121,7 @@
     <string name="pulse_render_mode_title">Tryb renderowania</string>
     <string name="pulse_render_mode_fading_bars">Zanikające bloki</string>
     <string name="pulse_render_mode_solid_lines">Linie ciągłe</string>
-    <string name="fling_pulse_color">Kolor pulu</string>
+    <string name="fling_pulse_color">Kolor pulsów</string>
     <string name="fling_pulse_color_summary">Używany również jako rezerwa awaryjna dla koloru automatycznego</string>
     <string name="eos_fling_lavalamp_title">Włącz lampę lawową</string>
     <string name="eos_fling_lavalamp_summary">Puls ożywia płynną mieszankę kolorów lawy</string>
@@ -156,7 +156,7 @@
     <string name="positive_done">Gotowe</string>
     <!-- SmartBar -->
     <string name="smartbar_category">Inteligentny pasek</string>
-    <string name="smartbar_settings_title">Ustawienia iteligentego paska</string>
+    <string name="smartbar_settings_title">Ustawienia inteligentnego paska</string>
     <string name="smartbar_settings_summary">W pełni konfigurowalny pasek nawigacyjny</string>
     <string name="smartbar_editor_title">Uruchom tryb edycji</string>
     <string name="smartbar_editor_summary">Uruchom edytor przycisków inteligentnego paska</string>
@@ -190,13 +190,15 @@
     <string name="smartbar_config_restore_success_toast">Wczytano ustawienia inteligentnego paska</string>
     <string name="smartbar_config_backup_error_toast">Wystąpił błąd podczas zapisywania ustawień inteligentnego paska</string>
     <string name="smartbar_config_restore_error_toast">Wystąpił błąd podczas wczytywania ustawień inteligentnego paska</string>
-    <string name="navbar_buttons_alpha_title">Przezroczystość przyciksów</string>
+    <string name="navbar_buttons_alpha_title">Przezroczystość przycisków</string>
     <string name="smartbar_longpress_delay_title">Opóźnienie długiego naciśnięcia przycisku</string>
     <string name="smartbar_longpress_delay_summary">Dostosuj czas reakcji na długie przyciśnięcie</string>
     <string name="smartbar_longpress_delay_default">Domyślne opóźnienie (szybko)</string>
     <string name="smartbar_longpress_delay_normal">Normalne opóźnienie</string>
     <string name="smartbar_longpress_delay_long">Długie opóźnienie</string>
     <string name="smartbar_custom_icon_size_title">Niestandardowe skalowanie ikon</string>
+    <string name="one_hand_mode_title">Tryb jednoręczny</string>
+    <string name="one_hand_mode_summary">Pozwól przesuwać palcem po pasku nawigacji, aby włączyć tryb jedną ręką</string>
     <string name="smartbar_double_tap_sleep_title">Stuknij dwukrotnie aby uśpić</string>
     <string name="smartbar_double_tap_sleep_summary">Dwukrotne stuknięcie w pusty pasek nawigacyjny wprowadza w tryb uśpienia</string>
     <string name="reset">Resetuj</string>
