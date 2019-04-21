@@ -28,7 +28,7 @@
     <string name="navigation_bar_left_summary">画面が横向きの際にナビゲーションバーを画面の左側に配置する</string>
     <string name="smartbar_interface">スマートバー</string>
     <string name="icon_pack_picker_dialog_title">アイコンパック</string>
-    <string name="image_exceeds_max_allowed_size">画像は512x512を超えてはなりません</string>
+    <string name="image_exceeds_max_allowed_size">画像は 512x512 を超えてはなりません</string>
     <string name="invalid_icon_from_uri">コンテンツプロバイダーから画像を読み込めません</string>
     <string name="picker_activities">アクティビティ</string>
     <string name="select_custom_app_title">カスタムアプリを選択</string>
@@ -48,7 +48,7 @@
     <string name="fling_settings_summary">ユニークで完全に編集可能なジェスチャーベースのナビゲーションバー</string>
     <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">Fling の有効化</string>
-    <string name="fling_back_home_policy">バックとホームは常に設定しなければなりません。バックやホームの割り当てを変更するにはまず最初にホックとホームを希望の割り当てに設定してください。\n\nダブルタップアクションの有効化はシングルタップの反応を少々遅延させます。</string>
+    <string name="fling_back_home_policy">バックとホームは常に設定しなければなりません。バックやホームの割り当てを変更するにはまず最初にホックとホームを希望の割り当てに設定して下さい。\n\nダブルタップアクションの有効化はシングルタップの反応を少々遅延させます。</string>
     <string name="fling_split_bar_policy">左右のみのアクションの設定はバー全体の間をのタッチ範囲を左右に分割します</string>
     <string name="fling_def_summary">アクションが設定されていません</string>
     <string name="fling_swipe_actions">スワイプジェスチャー</string>
@@ -100,7 +100,7 @@
     <string name="fling_longpress_summary">長押しアクション実行のしきい値の時間を調整する</string>
     <string name="fling_keyboard_cursors_title">ダイナミックキーボードカーソルアクション</string>
     <string name="fling_keyboard_cursors_summary">キーボード表示時は左右のダブルタップアクションはキーボードカーソルの左右移動アクションになります</string>
-    <string name="fling_logo_opacity_title">ロゴの不透明度</string>
+    <string name="fling_logo_opacity_title">Fling ロゴの不透明度</string>
     <string name="fling_factory_reset_title">初期状態にリセット</string>
     <string name="fling_factory_reset_confirm">本当に Fling を初期設定に戻しても良いですか?</string>
     <string name="fling_backup_current_config_title">プロファイルを保存</string>
@@ -116,7 +116,7 @@
     <string name="pulse_help_policy_notice_summary">端末のスピーカーで聴く時に一部のオーディオソースで Pulse が機能しません</string>
     <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">ナビゲーションバーの音楽グラフィックイコライザー</string>
-    <string name="fling_show_pulse_title">Pulse を許可する</string>
+    <string name="fling_show_pulse_title">Pulse を許可</string>
     <string name="fling_show_pulse_summary">ナビゲーションバー上の音楽グラフィックイコライザー</string>
     <string name="pulse_render_mode_title">レンダリングモード</string>
     <string name="pulse_render_mode_fading_bars">フェーディングブロック</string>
@@ -180,7 +180,7 @@
     <string name="smartbar_ime_action_none">なし</string>
     <string name="smartbar_ime_action_arrows">方向キー</string>
     <string name="smartbar_ime_action_switcher">IME 切り替え</string>
-    <string name="smartbar_ime_action_dynamic">入力/メディアの矢印</string>
+    <string name="smartbar_ime_action_dynamic">入力/メディア の矢印</string>
     <string name="smartbar_backup_current_config_title">プロファイルを保存</string>
     <string name="smartbar_restore_config_title">プロファイルを復元</string>
     <string name="smartbar_config_name_edit_dialog_title">スマートバープロファイル名</string>

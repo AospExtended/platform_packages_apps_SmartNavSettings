@@ -197,6 +197,8 @@
     <string name="smartbar_longpress_delay_normal">Κανονική καθυστέρηση</string>
     <string name="smartbar_longpress_delay_long">Μεγάλη καθυστέρηση</string>
     <string name="smartbar_custom_icon_size_title">Προσαρμοσμένη κλιμάκωση εικονιδίου</string>
+    <string name="one_hand_mode_title">Λειτουργία ενός χεριού</string>
+    <string name="one_hand_mode_summary">Επιτρέπει το σύρσιμο στη γραμμή πλοήγησης για να ενεργοποιήσετε τη λειτουργία ενός χεριού</string>
     <string name="smartbar_double_tap_sleep_title">Διπλό χτύπημα για αναστολή</string>
     <string name="smartbar_double_tap_sleep_summary">Διπλό πάτημα στα κενά της γραμμής πλοήγησης για αναστολή</string>
     <string name="reset">Επαναφορά</string>
