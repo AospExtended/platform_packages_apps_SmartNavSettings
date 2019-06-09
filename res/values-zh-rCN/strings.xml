@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">双击睡眠</string>
     <string name="smartbar_double_tap_sleep_summary">双击导航栏的空白区域休眠</string>
     <string name="reset">重置</string>
+    <!-- Navbar Animation -->
 </resources>

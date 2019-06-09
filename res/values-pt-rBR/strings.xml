@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Dois toques para dormir</string>
     <string name="smartbar_double_tap_sleep_summary">Toque duplo nas áreas vazias da barra de navegação para dormir</string>
     <string name="reset">Redefinir</string>
+    <!-- Navbar Animation -->
 </resources>

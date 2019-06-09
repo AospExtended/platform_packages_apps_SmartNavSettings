@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Выключаць экран пры падвойным націску</string>
     <string name="smartbar_double_tap_sleep_summary">Падвойны націск на пустую вобласць панэлі навігацыі для сну</string>
     <string name="reset">Скінуць</string>
+    <!-- Navbar Animation -->
 </resources>

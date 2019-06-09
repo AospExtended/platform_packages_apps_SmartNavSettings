@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Dvojni tap za spanje</string>
     <string name="smartbar_double_tap_sleep_summary">Dvakrat tapnite na prazno področje v vrstici za krmarjenje za spanje</string>
     <string name="reset">Ponastavi</string>
+    <!-- Navbar Animation -->
 </resources>

@@ -21,7 +21,7 @@
     <string name="navbar_size">バーのサイズ</string>
     <string name="navbar_mode">ナビゲーションモード</string>
     <string name="navbar_mode_summary">端末のナビゲーションモードを選択する</string>
-    <string name="navbar_visibility">ナビゲーションバーを有効化</string>
+    <string name="navbar_visibility">有効化</string>
     <string name="navigationbar_settings_summary">ナビゲーションのスタイルと動作を編集する</string>
     <string name="navbar_general_title">高度な設定</string>
     <string name="navigation_bar_left_title">左利きモード</string>
@@ -78,7 +78,7 @@
     <string name="long_swipe_reset">リセット</string>
     <string name="fling_advanced">高度な設定</string>
     <string name="fling_long_swipe_title">長いスワイプのしきい値</string>
-    <string name="fling_long_swipe_summary">しきい値の調整は Fling 表示エリアの縦横のパーセント割合に基づきます</string>
+    <string name="fling_long_swipe_summary">しきい値の調整は Fling 表示エリアの縦横の割合に基づきます</string>
     <string name="fling_trails_enable_title">ジェスチャーの軌跡を有効化</string>
     <string name="fling_trails_enable_summary">スワイプジェスチャーの軌跡を表示する</string>
     <string name="fling_trails_color_title">軌跡の色</string>
@@ -100,7 +100,7 @@
     <string name="fling_longpress_summary">長押しアクション実行のしきい値の時間を調整する</string>
     <string name="fling_keyboard_cursors_title">ダイナミックキーボードカーソルアクション</string>
     <string name="fling_keyboard_cursors_summary">キーボード表示時は左右のダブルタップアクションはキーボードカーソルの左右移動アクションになります</string>
-    <string name="fling_logo_opacity_title">Fling ロゴの不透明度</string>
+    <string name="fling_logo_opacity_title">Fling ロゴの透明度</string>
     <string name="fling_factory_reset_title">初期状態にリセット</string>
     <string name="fling_factory_reset_confirm">本当に Fling を初期設定に戻しても良いですか?</string>
     <string name="fling_backup_current_config_title">プロファイルを保存</string>
@@ -131,11 +131,11 @@
     <string name="lavamp_solid_speed_title">ラーヴァランプ速度</string>
     <string name="pulse_solid_units_count">ソリッドラインの本数</string>
     <string name="pulse_solid_lines_count">ソリッドラインの本数</string>
-    <string name="pulse_solid_units_opacity">ソリッドラインの不透明度</string>
+    <string name="pulse_solid_units_opacity">ソリッドラインの透明度</string>
     <string name="pulse_solid_dimen_category">ソリッドラインモードの設定</string>
     <string name="pulse_custom_buttons_opacity_title">Pulse 上のスマートバーボタンの透明度</string>
     <string name="pulse_auto_color_title">自動設定の Pulse カラー</string>
-    <string name="pulse_auto_color_summary">アルバムアートの色に同期します。ラーヴァランプモードやラインの不透明度を上書きします。</string>
+    <string name="pulse_auto_color_summary">アルバムアートの色に同期します。ラーヴァランプモードやラインの透明度を上書きします。</string>
     <!-- Pulse config -->
     <string name="pulse_blacklist_title">アプリのブラックリスト</string>
     <string name="pulse_blacklist_summary">Pluse を許可しないアプリ</string>
@@ -202,4 +202,7 @@
     <string name="smartbar_double_tap_sleep_title">ダブルタップしてスリープ</string>
     <string name="smartbar_double_tap_sleep_summary">ナビゲーションバーの空きエリアをダブルタップしてスリープ</string>
     <string name="reset">リセット</string>
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel アニメーション</string>
+    <string name="pixel_navbar_anim_summary">標準のナビゲーションバーのホームボタンアニメーションを切り替える</string>
 </resources>

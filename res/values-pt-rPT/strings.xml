@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Toque duplo para desligar ecrã</string>
     <string name="smartbar_double_tap_sleep_summary">Toque duplo numa área vazia da barra de navegação para desligar o ecrã</string>
     <string name="reset">Repor</string>
+    <!-- Navbar Animation -->
 </resources>

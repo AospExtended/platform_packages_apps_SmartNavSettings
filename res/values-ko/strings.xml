@@ -197,7 +197,10 @@
     <string name="smartbar_longpress_delay_normal">지연시간 보통</string>
     <string name="smartbar_longpress_delay_long">지연시간 길게</string>
     <string name="smartbar_custom_icon_size_title">아이콘 크기 조절</string>
+    <string name="one_hand_mode_title">한 손 조작 모드</string>
+    <string name="one_hand_mode_summary">네비게이션 바를 쓸어 한 손 조작 모드 활성화하기</string>
     <string name="smartbar_double_tap_sleep_title">두 번 눌러 화면 끄기</string>
     <string name="smartbar_double_tap_sleep_summary">내비게이션 바의 빈 영역을 두 번 누르면 화면이 꺼집니다</string>
     <string name="reset">초기화</string>
+    <!-- Navbar Animation -->
 </resources>

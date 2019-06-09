@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Двукратно докосване за заспиване</string>
     <string name="smartbar_double_tap_sleep_summary">Двукратно докосване върху празна част от навигационната лента за заспиване</string>
     <string name="reset">Нулиране</string>
+    <!-- Navbar Animation -->
 </resources>

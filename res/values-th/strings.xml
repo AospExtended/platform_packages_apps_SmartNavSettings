@@ -103,4 +103,5 @@
     <string name="pulse_blacklist_add_apps_summary">แตะเพื่อเพิ่มแอป แตะแอปที่เพิ่มแล้วเพื่อนำออก</string>
     <!-- Navbar height -->
     <!-- SmartBar -->
+    <!-- Navbar Animation -->
 </resources>

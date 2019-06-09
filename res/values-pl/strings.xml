@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Stuknij dwukrotnie aby uśpić</string>
     <string name="smartbar_double_tap_sleep_summary">Dwukrotne stuknięcie w pusty pasek nawigacyjny wprowadza w tryb uśpienia</string>
     <string name="reset">Resetuj</string>
+    <!-- Navbar Animation -->
 </resources>

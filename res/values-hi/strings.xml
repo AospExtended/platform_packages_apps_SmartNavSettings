@@ -200,4 +200,5 @@
     <string name="smartbar_double_tap_sleep_title">स्लीप करने के लिए दो बार टैप करें</string>
     <string name="smartbar_double_tap_sleep_summary">स्लीप मोड के लिए खाली नेविगेशन बार क्षेत्रों पर डबल टैप</string>
     <string name="reset">रीसेट</string>
+    <!-- Navbar Animation -->
 </resources>

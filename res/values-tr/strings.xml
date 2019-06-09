@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Çift dokunuşla uyutma</string>
     <string name="smartbar_double_tap_sleep_summary">Cihazı uyutmak için gezinme çubuğunun boş bir alanına iki kez hafifçe dokunun</string>
     <string name="reset">Sıfırla</string>
+    <!-- Navbar Animation -->
 </resources>

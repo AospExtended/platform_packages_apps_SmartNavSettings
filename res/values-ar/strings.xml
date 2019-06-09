@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">الضغط مرتين لإطفاء الشاشة</string>
     <string name="smartbar_double_tap_sleep_summary">ضغط مزدوج على مناطق شريط التنقل الفارغة لإغلاق الشاشة</string>
     <string name="reset">إعادة تعيين</string>
+    <!-- Navbar Animation -->
 </resources>

@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Διπλό χτύπημα για αναστολή</string>
     <string name="smartbar_double_tap_sleep_summary">Διπλό πάτημα στα κενά της γραμμής πλοήγησης για αναστολή</string>
     <string name="reset">Επαναφορά</string>
+    <!-- Navbar Animation -->
 </resources>

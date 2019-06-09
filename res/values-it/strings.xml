@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Doppio tocco per spegnere</string>
     <string name="smartbar_double_tap_sleep_summary">Doppio tocco sulle aree vuote della barra di navigazione per spegnere lo schermo</string>
     <string name="reset">Ripristina</string>
+    <!-- Navbar Animation -->
 </resources>

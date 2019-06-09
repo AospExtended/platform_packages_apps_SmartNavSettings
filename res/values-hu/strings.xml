@@ -204,4 +204,5 @@ A kettős érintéses műveletek engedélyezése enyhén késlelteti az egyszeri
     <string name="smartbar_double_tap_sleep_title">Dupla érintésre alvó mód</string>
     <string name="smartbar_double_tap_sleep_summary">A navigációs sáv üres területét duplán megérintve kikapcsol a képernyő</string>
     <string name="reset">Visszaállítás</string>
+    <!-- Navbar Animation -->
 </resources>

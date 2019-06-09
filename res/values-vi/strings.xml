@@ -48,8 +48,8 @@
     <string name="fling_settings_summary">Thanh điều hướng theo cử chỉ rất cụ thể và có thể tuỳ chỉnh hoàn toàn</string>
     <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">Bật Fling</string>
-    <string name="fling_back_home_policy">Quay lại và về nhà phải luôn luôn được đặt. Để thay đổi trở lại hoặc nhà tập, thiết lập mong muốn chuyển nhượng first.\n\nEnabling nhấp đúp vào hoạt động sản xuất một chút chậm trễ với vòi nước duy nhất đáp ứng.</string>
-    <string name="fling_split_bar_policy">Thiết lập các hành động chỉ phải/trái sẽ phân chia khu vực liên lạc giữa các thanh toàn bộ.</string>
+    <string name="fling_back_home_policy">Nút Back và Home phải luôn được đặt. Để thay đổi bố trí nút Back hoặc Home, trước tiên hãy bố trí như mong muốn trước.\n\nViệc kích hoạt các thao tác nhấn đúp sẽ tạo ra độ trễ nhẹ với độ phản hồi của một lần nhấn.</string>
+    <string name="fling_split_bar_policy">Đặt hành động chỉ sang phải/trái sẽ phân chia các vùng cảm ứng giữa toàn bộ thanh.</string>
     <string name="fling_def_summary">Không có cài đặt hành động nào</string>
     <string name="fling_swipe_actions">Cử chỉ vuốt</string>
     <string name="fling_tap_actions">Cử chỉ chạm</string>
@@ -78,7 +78,7 @@
     <string name="long_swipe_reset">Thiết lập lại</string>
     <string name="fling_advanced">Tuỳ chọn nâng cao</string>
     <string name="fling_long_swipe_title">Ngưỡng vuốt dài</string>
-    <string name="fling_long_swipe_summary">Ngưỡng điều chỉnh dựa trên tỷ lệ chiều rộng/chiều cao Fling giao diện tích</string>
+    <string name="fling_long_swipe_summary">Điều chỉnh ngưỡng dựa trên tỷ lệ phần trăm chiều rộng/chiều cao của khu vực giao diện Fling</string>
     <string name="fling_trails_enable_title">Bật vệt cử chỉ</string>
     <string name="fling_trails_enable_summary">Hiện một vệt khi có cử chỉ vuốt</string>
     <string name="fling_trails_color_title">Màu vệt</string>
@@ -113,7 +113,7 @@
     <string name="fling_config_backup_error_toast">Lỗi lưu cấu hình Fling</string>
     <string name="fling_config_restore_error_toast">Lỗi khôi phục cấu hình Fling</string>
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_summary">Nhấp nháy không hoạt động với một số nguồn âm thanh khi nghe ở loa ngoài</string>
+    <string name="pulse_help_policy_notice_summary">Pulse không hoạt động với một số nguồn âm thanh khi nghe ở loa ngoài</string>
     <string name="pulse_settings">Pulse</string>
     <string name="pulse_settings_summary">Trình trực quan đồ họa âm thanh trên thanh điều hướng</string>
     <string name="fling_show_pulse_title">Hiện Pulse</string>
@@ -138,7 +138,7 @@
     <string name="pulse_auto_color_summary">Đồng bộ hóa màu sắc với ảnh album. Ghi đè Đèn Dung Nham và độ mờ đường viền.</string>
     <!-- Pulse config -->
     <string name="pulse_blacklist_title">Danh sách đen ứng dụng</string>
-    <string name="pulse_blacklist_summary">Các ứng dụng sẽ bị bỏ qua Sóng nhạc</string>
+    <string name="pulse_blacklist_summary">Các ứng dụng sẽ bị bỏ qua Pulse</string>
     <string name="pulse_blacklist_apps_cat_title">Danh sách đen</string>
     <string name="pulse_blacklist_apps_title">Danh sách đen ứng dụng</string>
     <string name="pulse_blacklist_apps_summary">Ứng dụng không hiển thị trong bảng điều khiển</string>
@@ -160,7 +160,7 @@
     <string name="smartbar_settings_summary">Tùy biến thanh điều hướng đầy đủ</string>
     <string name="smartbar_editor_title">Bắt đầu chế độ chỉnh sửa</string>
     <string name="smartbar_editor_summary">Mở trình chỉnh sửa nút thanh thông minh</string>
-    <string name="smartbar_help_policy_notice_summary">Long-nhấn bất kỳ nút sẽ trả về chỉnh sửa trình đơn. Một giữ ngắn trên bất kỳ nút khởi tạo một kéo và thả nút phân loại option.\n\nEnabling nhấp đúp vào hoạt động sản xuất một chút chậm trễ với vòi nước duy nhất đáp ứng.</string>
+    <string name="smartbar_help_policy_notice_summary">Nhấn và giữ bất kỳ nút nào sẽ hiển thị menu chỉnh sửa. Việc giữ ngắn trên bất kỳ nút nào sẽ khởi động tùy chọn sắp xếp nút kéo và thả.\n\nViệc kích hoạt các thao tác nhấn đúp tạo ra độ trễ nhẹ cho phản hồi một lần nhấn.</string>
     <string name="smartbar_context_menu_position_title">Vị trí bố cục các nút ngữ cảnh</string>
     <string name="smartbar_context_menu_position_summary">Thiết lập vị trí của các nút theo ngữ cảnh (menu, chọn ime, vv)</string>
     <string name="smartbar_right">Bên phải</string>
@@ -171,7 +171,7 @@
     <string name="smartbar_button_animation_spring">Nhún nhảy</string>
     <string name="smartbar_button_animation_flip">Lật lại</string>
     <string name="smartbar_button_animation_pixel">Pixel</string>
-    <string name="smartbar_button_animation_pixel_home">Điểm ảnh (chỉ nút Home)</string>
+    <string name="smartbar_button_animation_pixel_home">Pixel (chỉ nút Home)</string>
     <string name="smartbar_button_animation_pixel_home_ripple">Gợn với Pixel (nút Home)</string>
     <string name="smartbar_factory_reset_title">Thiết lập lại về gốc</string>
     <string name="smartbar_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Thanh thông minh về cài đặt gốc?</string>
@@ -187,7 +187,7 @@
     <string name="smartbar_config_name_edit_dialog_message">Nhập tên hoặc để trống</string>
     <string name="smartbar_config_dialog_title">Cấu hình Thanh thông minh</string>
     <string name="smartbar_config_backup_success_toast">Đã lưu thành công cấu hình Thanh thông minh</string>
-    <string name="smartbar_config_restore_success_toast">Cấu hình Smartbar đã khôi phục thành công</string>
+    <string name="smartbar_config_restore_success_toast">Cấu hình Thanh thông minh đã khôi phục thành công</string>
     <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Thanh thông minh</string>
     <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Thanh thông minh</string>
     <string name="navbar_buttons_alpha_title">Độ trong suốt nút</string>
@@ -199,7 +199,8 @@
     <string name="smartbar_custom_icon_size_title">Tùy chỉnh tỷ lệ biểu tượng</string>
     <string name="one_hand_mode_title">Chế độ một tay</string>
     <string name="one_hand_mode_summary">Cho phép vuốt trên thanh điều hướng để kích hoạt chế độ một tay</string>
-    <string name="smartbar_double_tap_sleep_title">Nhấn kép để tắt màn hình</string>
+    <string name="smartbar_double_tap_sleep_title">Nhấn đúp để tắt màn hình</string>
     <string name="smartbar_double_tap_sleep_summary">Nhấn đúp vào các vùng trống thanh điều hướng để ngủ</string>
     <string name="reset">Đặt lại</string>
+    <!-- Navbar Animation -->
 </resources>

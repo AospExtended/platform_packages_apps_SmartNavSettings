@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">輕觸兩下即可休眠</string>
     <string name="smartbar_double_tap_sleep_summary">輕觸兩下空白導航列來休眠</string>
     <string name="reset">重設</string>
+    <!-- Navbar Animation -->
 </resources>

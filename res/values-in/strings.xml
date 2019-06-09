@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Ketuk dua kali tidur</string>
     <string name="smartbar_double_tap_sleep_summary">Ketuk dua kali di area navbar kosong untuk tidur</string>
     <string name="reset">Atur Ulang</string>
+    <!-- Navbar Animation -->
 </resources>

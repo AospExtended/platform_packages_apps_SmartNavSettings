@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Doppeltippen für Standbymodus</string>
     <string name="smartbar_double_tap_sleep_summary">Für Ruhezustand zweimal auf einen leeren Bereich der Navigationsleiste tippen</string>
     <string name="reset">Zurücksetzen</string>
+    <!-- Navbar Animation -->
 </resources>

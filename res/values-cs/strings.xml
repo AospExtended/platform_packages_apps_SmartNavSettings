@@ -202,4 +202,7 @@
     <string name="smartbar_double_tap_sleep_title">Dvojím klepnutím uspat</string>
     <string name="smartbar_double_tap_sleep_summary">Dvojím poklepáním na prázdné místo navigačního panelu uspat zařízení</string>
     <string name="reset">Resetovat</string>
+    <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animace Pixel</string>
+    <string name="pixel_navbar_anim_summary">Přepnout animaci tlačítka Domů na navigačním panelu</string>
 </resources>

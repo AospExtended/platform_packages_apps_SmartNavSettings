@@ -202,4 +202,5 @@
     <string name="smartbar_double_tap_sleep_title">Appui double pour mettre en veille</string>
     <string name="smartbar_double_tap_sleep_summary">Appuyer deux fois sur l\'espace vide de la barre de navigation pour mettre en veille</string>
     <string name="reset">Réinitialiser</string>
+    <!-- Navbar Animation -->
 </resources>
