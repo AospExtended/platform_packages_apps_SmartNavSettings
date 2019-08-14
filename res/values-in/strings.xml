@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Ketuk dua kali di area navbar kosong untuk tidur</string>
     <string name="reset">Atur Ulang</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animasi piksel</string>
+    <string name="pixel_navbar_anim_summary">Beralih animasi tombol beranda di navbar bawaan</string>
 </resources>

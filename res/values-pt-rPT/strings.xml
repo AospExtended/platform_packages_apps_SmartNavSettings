@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Toque duplo numa área vazia da barra de navegação para desligar o ecrã</string>
     <string name="reset">Repor</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animação do Pixel</string>
+    <string name="pixel_navbar_anim_summary">Alternar animação do botão home na barra de navegação stock</string>
 </resources>

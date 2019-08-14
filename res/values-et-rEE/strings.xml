@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Topelt-koputage tühjale naviribale, et uinuda</string>
     <string name="reset">Lähtesta</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pikslite animatsioon</string>
+    <string name="pixel_navbar_anim_summary">Lülitage vaikimisi navigeerimisribal sisse nupp Kodu.</string>
 </resources>

@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Подвійне натискання на порожню область панелі навігації для сну</string>
     <string name="reset">Скинути</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Анімація Pixel</string>
+    <string name="pixel_navbar_anim_summary">Включити анімацію кнопки \"Додому\" на панелі навігації за замовчуванням</string>
 </resources>

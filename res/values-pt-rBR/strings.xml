@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Toque duplo nas áreas vazias da barra de navegação para dormir</string>
     <string name="reset">Redefinir</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animação do Pixel</string>
+    <string name="pixel_navbar_anim_summary">Alternar animação do botão inicial no navegador de ações</string>
 </resources>

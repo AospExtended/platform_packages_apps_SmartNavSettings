@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Cihazı uyutmak için gezinme çubuğunun boş bir alanına iki kez hafifçe dokunun</string>
     <string name="reset">Sıfırla</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animasyonu</string>
+    <string name="pixel_navbar_anim_summary">Varsayılan gezinme çubuğu ana ekran tuş animasyonunu değiştir</string>
 </resources>

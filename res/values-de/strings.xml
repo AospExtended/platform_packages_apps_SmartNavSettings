@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Für Ruhezustand zweimal auf einen leeren Bereich der Navigationsleiste tippen</string>
     <string name="reset">Zurücksetzen</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel-Animation</string>
+    <string name="pixel_navbar_anim_summary">Umschalten der Home Button Animation auf der Original Navigationsleiste</string>
 </resources>

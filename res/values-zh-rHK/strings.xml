@@ -203,4 +203,5 @@
     <string name="smartbar_double_tap_sleep_summary">輕觸兩下空白導航列來休眠</string>
     <string name="reset">重設</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel 動畫</string>
 </resources>

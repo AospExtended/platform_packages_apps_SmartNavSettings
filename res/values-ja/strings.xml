@@ -48,7 +48,7 @@
     <string name="fling_settings_summary">ユニークで完全に編集可能なジェスチャーベースのナビゲーションバー</string>
     <string name="fling_interface">Fling</string>
     <string name="fling_enable_title">Fling の有効化</string>
-    <string name="fling_back_home_policy">バックとホームは常に設定しなければなりません。バックやホームの割り当てを変更するにはまず最初にホックとホームを希望の割り当てに設定して下さい。\n\nダブルタップアクションの有効化はシングルタップの反応を少々遅延させます。</string>
+    <string name="fling_back_home_policy">戻るとホームは常に設定しなければなりません。戻るやホームの割り当てを変更するにはまず最初に希望の割り当てに設定して下さい。\n\nダブルタップアクションの有効化はシングルタップの反応を少々遅延させます。</string>
     <string name="fling_split_bar_policy">左右のみのアクションの設定はバー全体の間をのタッチ範囲を左右に分割します</string>
     <string name="fling_def_summary">アクションが設定されていません</string>
     <string name="fling_swipe_actions">スワイプジェスチャー</string>
@@ -123,7 +123,7 @@
     <string name="pulse_render_mode_solid_lines">ソリッドライン</string>
     <string name="fling_pulse_color">パルスの色</string>
     <string name="fling_pulse_color_summary">自動カラーのフォールバックとしても使用します</string>
-    <string name="eos_fling_lavalamp_title">ラーヴァランプモードを ON にする</string>
+    <string name="eos_fling_lavalamp_title">ラーヴァランプモードを有効化</string>
     <string name="eos_fling_lavalamp_summary">Pulse の色がゆるやかに変化します</string>
     <string name="pulse_advanced_category">高度な設定</string>
     <string name="pulse_legacy_mode_advanced_category">フェーディングブロックモードの設定</string>

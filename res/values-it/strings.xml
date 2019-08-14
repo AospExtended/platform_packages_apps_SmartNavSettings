@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Doppio tocco sulle aree vuote della barra di navigazione per spegnere lo schermo</string>
     <string name="reset">Ripristina</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animazione Pixel</string>
+    <string name="pixel_navbar_anim_summary">Attiva o disattiva l\'animazione del pulsante home sulla barra di navigazione</string>
 </resources>

@@ -170,9 +170,9 @@
     <string name="smartbar_button_animation_ripple">波纹</string>
     <string name="smartbar_button_animation_spring">跳跃</string>
     <string name="smartbar_button_animation_flip">翻转</string>
-    <string name="smartbar_button_animation_pixel">Pixel</string>
-    <string name="smartbar_button_animation_pixel_home">Pixel（仅主屏幕按钮）</string>
-    <string name="smartbar_button_animation_pixel_home_ripple">像素波浪（主界面按钮）</string>
+    <string name="smartbar_button_animation_pixel">Pixel 风格</string>
+    <string name="smartbar_button_animation_pixel_home">Pixel 风格（仅 Home 按钮）</string>
+    <string name="smartbar_button_animation_pixel_home_ripple">波纹和 Pixel 风格（仅 Home 按钮）</string>
     <string name="smartbar_factory_reset_title">恢复默认设置</string>
     <string name="smartbar_factory_reset_confirm">你确定要把 Smartbar 重置为默认设置？</string>
     <string name="smartbar_ime_action_title">输入法和媒体行为</string>
@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">双击导航栏的空白区域休眠</string>
     <string name="reset">重置</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel 风格动画</string>
+    <string name="pixel_navbar_anim_summary">原生导航栏的主页按钮切换动画</string>
 </resources>

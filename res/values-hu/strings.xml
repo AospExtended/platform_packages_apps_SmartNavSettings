@@ -205,4 +205,6 @@ A kettős érintéses műveletek engedélyezése enyhén késlelteti az egyszeri
     <string name="smartbar_double_tap_sleep_summary">A navigációs sáv üres területét duplán megérintve kikapcsol a képernyő</string>
     <string name="reset">Visszaállítás</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel-animáció</string>
+    <string name="pixel_navbar_anim_summary">A kezdőoldal-gomb animációjának bekapcsolása</string>
 </resources>

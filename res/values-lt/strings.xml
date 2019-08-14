@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Dukart spustelėkite tuščią naršymo juostą miegui</string>
     <string name="reset">Atstatyti iš naujo</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pikselių animacija</string>
+    <string name="pixel_navbar_anim_summary">Įjunkite pagrindinio mygtuko animaciją</string>
 </resources>

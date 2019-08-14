@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Appuyer deux fois sur l\'espace vide de la barre de navigation pour mettre en veille</string>
     <string name="reset">Réinitialiser</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animation</string>
+    <string name="pixel_navbar_anim_summary">Activer l\'animation du boutons d\'accueil sur la barre de navigation stock</string>
 </resources>

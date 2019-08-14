@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Διπλό πάτημα στα κενά της γραμμής πλοήγησης για αναστολή</string>
     <string name="reset">Επαναφορά</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Κίνηση εικονοστοιχείων</string>
+    <string name="pixel_navbar_anim_summary">Εναλλαγή κίνησης πλήκτρου Αρχικής στην προεπιλεγμένη μπάρα</string>
 </resources>

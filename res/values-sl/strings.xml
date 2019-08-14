@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Dvakrat tapnite na prazno področje v vrstici za krmarjenje za spanje</string>
     <string name="reset">Ponastavi</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Pixel animacija</string>
+    <string name="pixel_navbar_anim_summary">Vključi animacijo gumba domov v standardni vrstici za krmarjenje</string>
 </resources>

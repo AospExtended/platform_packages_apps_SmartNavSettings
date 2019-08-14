@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Падвойны націск на пустую вобласць панэлі навігацыі для сну</string>
     <string name="reset">Скінуць</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Анімацыя Pixel</string>
+    <string name="pixel_navbar_anim_summary">Пераключэнне анімацыі кнопкі \"Хатняя\" на панэлі навігацыі</string>
 </resources>

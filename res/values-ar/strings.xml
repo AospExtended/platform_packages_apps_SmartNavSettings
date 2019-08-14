@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">ضغط مزدوج على مناطق شريط التنقل الفارغة لإغلاق الشاشة</string>
     <string name="reset">إعادة تعيين</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">تأثير حركة بكسل</string>
+    <string name="pixel_navbar_anim_summary">تبديل حركة زر الرئيسيه على شريط التنقل</string>
 </resources>

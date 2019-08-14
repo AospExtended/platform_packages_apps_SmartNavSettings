@@ -203,4 +203,6 @@
     <string name="smartbar_double_tap_sleep_summary">Dwukrotne stuknięcie w pusty pasek nawigacyjny wprowadza w tryb uśpienia</string>
     <string name="reset">Resetuj</string>
     <!-- Navbar Animation -->
+    <string name="pixel_navbar_anim_title">Animacje pikselowe</string>
+    <string name="pixel_navbar_anim_summary">Przełącz animację przycisku domowego na navbar</string>
 </resources>
